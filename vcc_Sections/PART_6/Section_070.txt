@@ -1,0 +1,23 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 70: Sections 172, 172A and 172B of the Companies Act 1967 apply
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 74
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+in relation to a VCC as they apply in relation to a company, subject to
+section 5 and the following modifications:
+(a) the reference in section 172B(4) of the Companies
+Act 1967 to section 76A(13) of that Act is omitted;
+(b) the reference in section 172B(1)(b)(ii) of the Companies
+Act 1967 to a related company is to a company that is a
+related corporation of the VCC.
+Registers of directors, secretaries, auditors and managers

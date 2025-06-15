@@ -1,0 +1,90 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 80: (1) Sections 178 to 183 and 185 to 189 of the Companies
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 573
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Act 1967 apply in relation to a VCC as they apply in relation to a
+company having a share capital, subject to section 5 and the following
+modifications:
+(a) sections 178(1A), 180(3), (4) and (5) and 181(1B) of the
+Companies Act 1967 are omitted;
+(b) the reference in section 179(1) of the Companies Act 1967
+relating to sections 64 and 64A of that Act is omitted;
+(c) the reference in section 179(5) of the Companies Act 1967
+relating to section 41(9) of that Act is omitted;
+(d) a reference in sections 179(6) and (7), 182, 185 and 186 of
+the Companies Act 1967 to that Act or a provision of that
+Act are to this Act or any provision of this Act (including a
+provision of the Companies Act 1967 as applied by this
+Act), as the case may be;
+(e) the following provision applies in place of section 179(8)
+of the Companies Act 1967 (which provides that a
+reference to a member of a company under section 179
+of that Act excludes the company itself if it is a member by
+reason of holding treasury shares):
+“A reference in this section to a member of a VCC
+does not include a subsidiary of the VCC if it is such a
+member by reason only of its holding shares under
+section 22(6) or (11).”;
+(f) the reference in section 180(2) of the Companies Act 1967
+to the provisions of section 64 of that Act is to the
+provisions of the constitution of the VCC;
+(g) the
+following
+provision
+applies
+in
+place
+of
+section 183(2)(b) of the Companies Act 1967 (which
+states the number of members needed for a requisition
+under section 183(1) of that Act):
+“not less than 100 members holding shares in the
+VCC.”;
+(h) the reference in section 186(1) of the Companies Act 1967
+to a resolution passed under section 175A(1)(a) of that Act
+is omitted;
+(i) all references in those sections of the Companies Act 1967
+relating to a chief executive officer or to any stock or units
+of stock of a company are omitted.
+(2) Section 184 of the Companies Act 1967 applies in relation to a
+VCC as it applies in relation to a public company, subject to section 5
+and the following modifications:
+(a) section 184(4A), (7) and (8) of the Companies Act 1967 is
+omitted;
+(b) the reference in section 184(4)(b)(i) of the Companies
+Act 1967 to treasury shares is to shares held by a subsidiary
+of the VCC under section 22(6) or (11) (if any);
+(c) the reference in section 184(5) of the Companies Act 1967
+to the number of votes to which each member is entitled by
+that Act is omitted.
+[28/2019]
+(3) Sections 184A (except subsections (4A) and (9)), 184B, 184C,
+184D, 184DA, 184E, 184F and 184G of the Companies Act 1967
+apply in relation to a VCC as they apply in relation to a private
+company or an unlisted public company (as the case may be), subject
+to section 5 and the following modifications:
+(a) the reference in section 184A(2) of the Companies
+Act
+to
+a
+resolution
+mentioned
+in
+section 175A(1)(a) of that Act is omitted;
+(b) a reference in sections 184A(1), (7) and (8), 184F(4) and
+184G of the Companies Act 1967 to that Act is to this Act
+including any provision of the Companies Act 1967 as
+applied by this Act.
+Division 7 — Register of members
+Register of members

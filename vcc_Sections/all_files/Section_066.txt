@@ -1,0 +1,161 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 66: (1) AVCC must keep a register showing, with respect to each
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 1418
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+director of the VCC, particulars of —
+(a) shares in the VCC or in a related corporation, being shares
+of which the director is a registered holder or in which the
+director has an interest, and the nature and extent of that
+interest;
+(b) debentures of the VCC or a related corporation which are
+held by the director or in which the director has an interest,
+and the nature and extent of that interest;
+(c) units in a collective investment scheme made available by
+a related corporation of the VCC which are held by the
+director or in which the director has an interest, and the
+nature and extent of that interest;
+(d) rights or options of the director or of the director and
+another person in respect of the acquisition or disposal of
+shares in the VCC or a related corporation; and
+(e) contracts to which the director is a party or under which the
+director is entitled to a benefit, being contracts under which
+a person has a right to call for or to make delivery of shares
+in the VCC or in a related corporation.
+(2) AVCC need not show in its register, with respect to a director,
+particulars of shares in a related corporation that is a wholly‑owned
+subsidiary of the VCC or of another corporation.
+(3) A VCC that is a wholly-owned subsidiary of another company
+or VCC (called in this subsection an entity) is treated as having
+complied with this section in relation to —
+(a) a director of that entity; or
+(b) a chief executive officer (as defined in section 4(1) of the
+Companies Act 1967 of that entity (being a company)),
+whether or not he or she is also a director of that entity,
+if the particulars required by this section to be shown in the registers
+of the VCC with respect to the director or chief executive officer (as
+the case may be) are shown in the registers of the entity.
+(4) For the purposes of subsections (2) and (3), a company or VCC
+(called in this subsection the first entity) is a wholly‑owned
+subsidiary of another company or VCC (called in this subsection
+the second entity) if the first entity does not have any member that is
+not —
+(a) the second entity;
+(b) a nominee of the second entity;
+(c) a subsidiary of the second entity, being a subsidiary that
+does not have any member that is not the second entity or a
+nominee of the second entity; or
+(d) a nominee of such a subsidiary.
+(5) A VCC must, within 3 days after receiving notice from a
+director under section 165(1)(a) of the Companies Act 1967 as
+applied by section 67, enter in its register in relation to the director the
+particulars mentioned in subsection (1), including —
+(a) the number and description of shares, debentures, units in a
+collective investment scheme (if applicable), rights,
+options and contracts to which the notice relates; and
+(b) the particulars mentioned in subsection (6) in respect of
+shares, debentures, units in a collective investment scheme
+(if applicable), rights or options acquired or contracts
+entered into after the director became a director.
+(6) The particulars in subsection (5)(b) are —
+(a) the price or other consideration for the transaction (if any)
+by reason of which an entry is required to be made under
+this section; and
+(b) the date of —
+(i) the agreement for the transaction or (if it is later) the
+completion of the transaction; or
+(ii) where there was no transaction, the occurrence of the
+event by reason of which an entry is required to be
+made under this section.
+(7) A VCC must, within 3 days after receiving a notice from a
+director under section 165(1)(b) of the Companies Act 1967 as
+applied by section 67, enter in its register the particulars of the change
+mentioned in the notice.
+(8) AVCC is not, by reason of anything done under this section, to
+be taken for any purpose to have notice of, or to be put upon inquiry
+as to, the right of a person or in relation to a share in the VCC or a
+debenture of the VCC.
+(9) Subject to this section, a VCC must keep its register at its
+registered office, and the register must be open for inspection —
+(a) by a member of the VCC without charge; and
+(b) by any other person on payment for each inspection of a
+sum of $3 or such lesser sum as the VCC requires.
+(10) A person may request a VCC to provide the person with a copy
+of its register or any part of the register on payment in advance of a
+sum of $1 or such lesser sum as the VCC requires for every page or
+part of a page required to be copied, and the VCC must send the copy
+to that person within 21 days or such longer period as the Registrar
+thinks fit after the day the VCC received the request.
+(11) The Registrar may by written notice require a VCC to send to
+the Registrar within such time as may be specified in the notice a copy
+of its register or any part of its register.
+(12) It is a defence to a prosecution for failing to comply with
+subsection (1) or (5) in respect of particulars relating to a director if
+the defendant proves that the failure was due to the failure of the
+director to comply with section 165 of the Companies Act 1967 as
+applied by section 67 with respect to those particulars.
+(13) In this section, a reference to a person who holds or acquires
+shares, debentures or units in a collective investment scheme, or an
+interest in any of these, includes a person who, under an option, holds
+or acquires a right to acquire or dispose of a share, debenture or a unit
+in a collective investment scheme, or an interest in any of these.
+(14) For the purposes of this section and section 165 of the
+Companies Act 1967 as applied by section 67, section 7 of the
+Companies Act 1967 (except subsection (3)) as applied by
+section 2(6), and section 2(7), apply in determining whether a
+person has an interest in a debenture or unit in a collective investment
+scheme, and in applying section 7 of the Companies Act 1967, a
+reference to a share is to a debenture or unit in a collective investment
+scheme.
+(15) For the purposes of this section —
+(a) a director of a VCC is considered to hold or have an
+interest or a right in or over any shares or debentures if —
+(i) a wife or husband of the director (not being herself or
+himself a director of the VCC) holds or has an
+interest or a right in or over those shares or
+debentures; or
+(ii) a child below 18 years of age of that director
+(not being himself or herself a director of the VCC)
+holds or has an interest in those shares or debentures;
+(b) a
+contract,
+assignment
+or
+right
+of
+subscription
+is
+considered as having been entered into or exercised or
+made by a director if it is entered into, exercised or made
+by —
+(i) the wife or husband of the director (not being herself
+or himself a director of the VCC); or
+(ii) a child below 18 years of age of the director (not
+being himself or herself a director of the VCC); and
+(c) a grant is considered as having been made to a director if it
+is made to —
+(i) the wife or husband of the director (not being herself
+or himself a director of the VCC); or
+(ii) a child below 18 years of age of the director
+(not being himself or herself a director of the VCC).
+(16) In subsection (15), “child” includes stepson, adopted son,
+stepdaughter and adopted daughter.
+(17) If subsection (1), (5), (7), (9) or (10) is contravened, the VCC
+and every officer of the VCC who is in default shall each be guilty of
+an offence and shall each be liable on conviction to a fine not
+exceeding $15,000 or to imprisonment for a term not exceeding
+3 years and, in the case of a continuing offence, to a further fine of
+$1,000 for every day or part of a day during which the offence
+continues after conviction.
+Disclosure of director’s emoluments and general duty to make
+disclosure

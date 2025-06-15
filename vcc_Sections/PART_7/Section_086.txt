@@ -1,0 +1,85 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 86: (1) In this Division —
+============================================================
+
+Part: PART 7
+Type: dash
+Word Count: 471
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+“AML/CFT authority”, “supervision” and “supervisory action”
+have the meanings given by section 17 of the FSMA 2022,
+except that a reference to a foreign financial institution in the
+definitions of those terms in that section is to a foreign
+financial institution as defined in this subsection;
+[Act 18 of 2022 wef 28/04/2023]
+“AML/CFT requirement”, “applicable offence”, “domestic
+authority”, “employee”, “enforcement action”, “foreign
+country”,
+“information”,
+“investigation”
+and
+“public
+authority”, have the meanings given by section 17 of the
+FSMA 2022;
+[Act 18 of 2022 wef 28/04/2023]
+“corresponding authority” means a public authority of a foreign
+country that exercises a function that corresponds to a
+regulatory function of —
+(a) ACRA under this Act;
+(b) MAS under this Part; or
+(c) MAS under a prescribed written law as defined in
+section 17 of the FSMA 2022;
+[Act 18 of 2022 wef 28/04/2023]
+“director”, in relation to a VCC, includes —
+(a) any person, by whatever name described, occupying
+the position of a director of the VCC;
+(b) a person in accordance with whose directions or
+instructions the directors of the VCC are accustomed
+to act; and
+(c) an alternate director, or a substitute director, of the
+VCC;
+“executive officer”, in relation to a VCC, means any person, by
+whatever name described, who —
+(a) is in the direct employment of, or acting for or by
+arrangement with, the VCC; and
+(b) is concerned with or takes part in the management of
+the VCC on a day‑to‑day basis;
+“foreign financial institution” has the meaning given by
+section 17 of the FSMA 2022, except that the reference in
+the definition of that term in that section to a corresponding
+authority is to a corresponding authority as defined in this
+subsection;
+[Act 18 of 2022 wef 28/04/2023]
+“office holder”, in relation to a VCC, means any person acting as
+the liquidator or provisional liquidator of the VCC or any of
+its sub‑funds (if applicable), the receiver or the receiver and
+manager of the property of the VCC or any of its sub‑funds
+(if applicable), or acting in an equivalent capacity in relation
+to the VCC or any of its sub‑funds (if applicable).
+(2) In this Division, an AML/CFT authority exercises consolidated
+supervision authority over a VCC if —
+(a) the VCC is a subsidiary of a foreign financial institution
+established or incorporated in the foreign country of the
+AML/CFT authority; and
+(b) the
+AML/CFT
+authority
+carries
+out
+consolidated
+supervision of the foreign financial institution, and its
+subsidiaries, branches, agencies and offices outside that
+foreign country, for compliance with the AML/CFT
+requirements of that foreign country that are applicable
+to the foreign financial institution.
+(3) To avoid doubt, the definition of “agent” in section 17 of the
+FSMA 2022 does not apply for the purposes of this Division.
+[Act 18 of 2022 wef 28/04/2023]
+Purpose of Division

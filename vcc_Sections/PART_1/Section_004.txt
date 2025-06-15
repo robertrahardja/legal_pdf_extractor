@@ -1,0 +1,23 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 4: For the purposes of this Act, where a corporation —
+============================================================
+
+Part: PART 1
+Type: simple
+Word Count: 54
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) is the holding company of another corporation;
+(b) is a subsidiary of another corporation; or
+(c) is a subsidiary of the holding company of another
+corporation,
+then the firstmentioned corporation and the other corporation are
+treated as related to each other.
+Purpose of Act and application of Companies Act provisions in
+this Act

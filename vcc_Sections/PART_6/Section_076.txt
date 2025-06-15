@@ -1,0 +1,305 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 76: (1) Where —
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 2007
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) the alternate address of a director or secretary is entered in
+the register of directors or register of secretaries, as the
+case may be; and
+(b) the circumstances set out in subsection (2) apply,
+the Registrar may enter the residential address of the director or
+secretary in the register of directors or register of secretaries, as the
+case may be.
+(2) Subsection (1) applies where —
+(a) communications sent by the Registrar under this Act, or by
+any officer of ACRA under any ACRA‑administered Act
+to the director or secretary (as the case may be) at his or her
+alternate address and requiring a response within a
+specified period remain unanswered; or
+(b) there is evidence to show that service of any document
+under this Act or under any ACRA‑administered Act at the
+alternate address is not effective to bring it to the notice of
+the director or secretary, as the case may be.
+(3) Before proceeding under subsection (1), the Registrar must give
+notice to the director or secretary affected, and to every VCC of
+which the Registrar has been notified under this Act that the
+individual is a director or secretary, as the case may be.
+(4) The notice mentioned in subsection (3) must —
+(a) state the grounds on which it is proposed to enter the
+individual’s residential address in the register of directors
+or register of secretaries, as the case may be; and
+(b) specify a period within which representations may be made
+before that is done.
+(5) The Registrar must take account of any representations received
+within the specified period.
+(6) Where the Registrar enters the residential address in the register
+of directors or register of secretaries under subsection (1), the
+Registrar must give notice of that fact to the director or secretary
+affected, and to every VCC of which the Registrar has been notified
+under this Act that the individual is a director or secretary, as the case
+may be.
+(7) A notice to a director or secretary under subsection (3) or (6)
+must be sent to the individual at his or her residential address unless it
+appears to the Registrar that service at that address may be ineffective
+to bring it to the individual’s notice, in which case it may be sent to
+any other last known address of that individual.
+(8) Where the Registrar enters an individual’s residential address in
+the register of directors or secretaries under subsection (1), or a
+Registrar appointed under any other ACRA‑administered Act
+discloses and makes available for public inspection under that Act
+the particulars of an individual’s residential address under a provision
+of that Act equivalent to subsection (1) —
+(a) the residential address ceases to be protected under
+section 75(7) from disclosure or from public inspection
+or access; and
+(b) the individual is not, for a period of 3 years after the date on
+which the residential address is entered in the register of
+directors or register of secretaries, allowed to provide an
+alternate
+address
+under
+section
+173B(1)(b)
+of
+the
+Companies Act 1967 as applied by section 72(2), or
+section 173E(4) of the Companies Act 1967 as applied by
+section 74(1), as the case may be.
+(9) Any individual aggrieved by the Registrar’s decision under
+subsection (1) may, within 30 days after the date of receiving the
+notice under subsection (6), appeal to the Court which may confirm
+the decision or give such directions in the matter as seem proper or
+otherwise determine the matter.
+(10) In
+this
+section,
+“ACRA-administered
+Act”
+means
+the
+Accounting and Corporate Regulatory Authority Act 2004 and any
+of the written laws specified in the Second Schedule to that Act.
+Division 6 — Meetings and proceedings
+Arrangements for meetings
+76A.—(1) This section applies to the following types of meetings:
+(a) any general meeting of a VCC (including an annual general
+meeting and an extraordinary general meeting);
+(b) any meeting of any class of members of a VCC;
+(c) any meeting ordered by the Court under section 182 of the
+Companies Act 1967 as applied by section 80, if the Court
+so directs.
+(2) Unless excluded under subsection (5) or (7), a meeting to which
+this section applies may be held —
+(a) at a physical place;
+(b) at a physical place and using virtual meeting technology; or
+(c) using virtual meeting technology only.
+(3) Where a meeting to which this section applies under
+subsection (2)(b) or (c) is held, the meeting may be held without
+any number of those participating in the meeting being together at the
+same place.
+(4) Unless excluded or modified under subsection (5) or excluded
+under subsection (7), where a meeting to which this section applies is
+held (whether wholly or partly) using virtual meeting technology —
+(a) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to any person
+(including any member of a VCC) attending a meeting
+includes a person who is attending the meeting using
+virtual meeting technology;
+(b) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to any person
+(including any member of a VCC) present or personally
+present at a meeting includes a person who attends the
+meeting using virtual meeting technology;
+(c) subject to paragraph (f), a reference in this Act (including a
+reference in the Companies Act 1967 as applied by this
+Act) to a vote of a member of a VCC at a meeting
+(including a vote for the purposes of electing a chairperson
+of a meeting), includes a vote by electronic means or any
+other means permitted by the constitution of the VCC;
+(d) subject to paragraph (f), a reference in this Act (including a
+reference in the Companies Act 1967 as applied by this
+Act) to voting by a member of the VCC at a meeting
+(including voting for the purposes of electing a chairperson
+of a meeting), includes voting by electronic means or any
+other means permitted by the constitution of the VCC;
+(e) subject to paragraph (f), a reference in this Act (including a
+reference in the Companies Act 1967 as applied by this
+Act) to the entitlement or right of a person to vote at a
+meeting includes, where the person is present by virtual
+meeting technology, the entitlement or right to vote by
+electronic means or any other means permitted by the
+constitution of the VCC;
+(f) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to voting by a
+person on a show of hands at a meeting includes, where the
+person is present by virtual meeting technology, voting by
+the person by electronic means or any other means
+permitted by the constitution of the VCC but only if the
+person can be identified —
+(i) by any method that may be prescribed relating to the
+verification or authentication of the identity of
+persons attending the meeting; or
+(ii) if no method is so prescribed, by any method that the
+directors of the VCC may determine;
+(g) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to the
+entitlement or right of a person to be heard at a meeting
+includes, where the person is present by virtual meeting
+technology, the entitlement or right to be heard by any
+means of synchronous communication that the directors of
+the VCC may determine;
+(h) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to the right of
+a person to speak on any resolution before a meeting
+includes, where the person is present by virtual meeting
+technology, the right to communicate by any means of
+synchronous communication that the directors of the VCC
+may determine;
+(i) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to the right of
+a person to speak at a meeting includes, where the person is
+present by virtual meeting technology, the right to
+communicate
+by
+any
+means
+of
+synchronous
+communication that the directors of the VCC may
+determine;
+(j) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to any
+representation being read out or declaration being made at
+a
+meeting
+includes
+the
+communication
+of
+that
+representation or declaration at the meeting by any
+means of synchronous communication that the directors
+of the VCC may determine;
+(k) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to an auditor’s
+report being read before the VCC in general meeting
+includes the communication of the contents of that
+auditor’s report at the general meeting by any means of
+synchronous communication that the directors of the VCC
+may determine;
+(l) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to the laying
+of a statement, financial statement, consolidated financial
+statement,
+balance
+sheet,
+auditor’s
+report
+or
+other
+document
+before
+a
+meeting
+of
+the
+VCC
+includes
+producing or making available the relevant document —
+(i) on a website; or
+(ii) by any other means that the VCC may by ordinary
+resolution determine; and
+(m) a reference in this Act (including a reference in the
+Companies Act 1967 as applied by this Act) to any
+statement, financial statement, consolidated financial
+statement,
+balance
+sheet,
+auditor’s
+report
+or
+other
+document being laid or caused to be laid before the VCC
+at a meeting includes the relevant document being
+produced or made available or caused to be produced or
+made available —
+(i) on a website; or
+(ii) by any other means that the VCC may by ordinary
+resolution determine.
+(5) This section applies despite the provisions contained in a VCC’s
+constitution, except where —
+(a) in the case of a VCC incorporated before 1 July 2023, the
+VCC
+on
+or
+after
+that
+date
+amends
+or
+alters
+its
+constitution —
+(i) to exclude the application of paragraph (b) or (c) of
+subsection (2) (or both) in respect of all or any
+meetings to which this section applies; or
+(ii) to exclude or modify the application of paragraphs
+(a) to (m) of subsection (4) (or any of those
+paragraphs) in respect of all or any meetings to
+which this section applies; or
+(b) in the case of a VCC incorporated on or after 1 July
+2023 —
+(i) the constitution of the VCC —
+(A) excludes the application of paragraph (b) or (c)
+of subsection (2) (or both) in respect of all or
+any meetings to which this section applies; or
+(B) excludes
+or
+modifies
+the
+application
+of
+paragraphs (a) to (m) of subsection (4) (or
+any of those paragraphs) in respect of all or any
+meetings to which this section applies; or
+(ii) the VCC at any time after its incorporation amends
+or alters its constitution —
+(A) to exclude the application of paragraph (b) or
+(c) of subsection (2) (or both) in respect of all
+or any meetings to which this section applies;
+or
+(B) to exclude or modify the application of
+paragraphs (a) to (m) of subsection (4) (or
+any of those paragraphs) in respect of all or any
+meetings to which this section applies.
+(6) In subsection (4), a reference to a member of a VCC includes,
+where
+appropriate,
+the
+member’s
+proxy
+or
+the
+member’s
+representative.
+(7) The Minister may, by order in the Gazette, exclude the
+application of subsection (2)(c) in respect of any prescribed class
+of VCCs.
+(8) To avoid doubt and subject to the constitution of the VCC,
+nothing in this Act prohibits a meeting of the board of directors of a
+VCC, or a committee consisting of one or more directors of a VCC,
+from being held —
+(a) at a physical place and using virtual meeting technology; or
+(b) using virtual meeting technology only.
+[Act 17 of 2023 wef 01/07/2023]
+Annual general meeting

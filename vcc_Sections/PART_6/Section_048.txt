@@ -1,0 +1,92 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 48: (1) Every VCC must have —
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 695
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) at least one director who is ordinarily resident in
+Singapore; and
+(b) at least one director (who may be the same person as in
+paragraph (a)) who is either a director or a qualified
+representative of the manager of the VCC.
+(2) A director of a VCC must be a natural person who has attained
+the age of 18 years and who is otherwise of full legal capacity.
+(3) Subject to subsection (5), unless the constitution otherwise
+provides, a director of a VCC may resign by giving the VCC a written
+notice of his or her resignation.
+(4) Subject to subsection (5), the resignation of a director is not
+conditional upon the VCC’s acceptance of his or her resignation.
+(5) Despite anything in this Act, the constitution of the VCC or any
+agreement with the VCC, a director of a VCC must not resign or
+vacate his or her office unless there is remaining in the VCC —
+(a) at least one director who is ordinarily resident in
+Singapore; and
+(b) at least one director (who may be the same person as in
+paragraph (a)) who is either a director or a qualified
+representative of the manager of the VCC.
+(6) Any purported resignation or vacation of office in breach of
+subsection (5) is invalid.
+(7) Subsection (5) does not apply where a director of a VCC is
+required to resign or vacate his or her office —
+(a) if the director has not within the period in section 147(1) of
+the Companies Act 1967 (as applied by section 54)
+obtained his or her qualification; or
+(b) by reason of his or her disqualification or removal or the
+revocation of his or her appointment as a director (as the
+case may be) under section 53, 55, 56, 57, 58, 59, 60 or 61.
+(8) If there is a contravention of subsection (1), the Registrar may,
+either of his or her own motion or on the application of any person,
+direct the members of the VCC to appoint —
+(a) a director who is ordinarily resident in Singapore; or
+(b) a director who is either a director or a qualified
+representative of the manager of the VCC,
+if the Registrar considers it to be in the interests of the VCC for such
+appointment to be made.
+(9) If the direction under subsection (8) is not complied with, each
+member in default shall be guilty of an offence and shall be liable on
+conviction to a fine not exceeding $2,000 and, in the case of a
+continuing offence, to a further fine not exceeding $1,000 for every
+day or part of a day during which the offence continues after
+conviction.
+(10) If there is a contravention of subsection (1) and —
+(a) the
+Registrar
+fails
+to
+give
+the
+direction
+under
+subsection (8); or
+(b) such direction has been given but is not complied with,
+the court may, on the application of the Registrar or any person, order
+the members of the VCC to appoint —
+(c) a director who is ordinarily resident in Singapore; or
+(d) a director who is either a director or a qualified
+representative of the manager of the VCC,
+if the court considers it to be in the interests of the VCC for such
+appointment to be made.
+(11) If a VCC carries on business for more than 6 months without
+having —
+(a) at least one director who is ordinarily resident in
+Singapore; and
+(b) at least one director (who may be the same person as in
+paragraph (a)) who is either a director or a qualified
+representative of the manager of the VCC,
+a person who, for the whole or any part of the period that the VCC so
+carries on business after those 6 months —
+(c) is a member of the VCC; and
+(d) knows that the VCC is carrying on business in that manner,
+is liable for the payment of all the debts of the VCC contracted during
+the period or (as the case may be) that part of the period, and may be
+sued for the debts.
+Restrictions on naming of director in document or register

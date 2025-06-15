@@ -1,0 +1,54 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 116: Section 236 of the Companies Act 1967 applies in relation to
+============================================================
+
+Part: PART 9
+Type: simple
+Word Count: 358
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+an investigation of the affairs of a VCC under this Part as it applies in
+relation to an investigation of the affairs of a company under Part 9 of
+that Act, subject to section 5 and the following modifications:
+(a) a reference in section 236(1) and (4A) of the Companies
+Act 1967 to a corporation which is or has at any relevant
+time been deemed to be or to have been related to the
+company by virtue of section 6 of that Act, is to the VCC’s
+related corporation;
+(b) subject to paragraph (c), a reference in section 236 of the
+Companies Act 1967 to an officer or agent of a corporation
+whose affairs are being investigated is to an officer or agent
+of the VCC or the VCC’s related corporation;
+(c) a reference in section 236(3) of the Companies Act 1967 to
+an officer or agent of a corporation is to —
+(i) an officer or agent of the VCC or of the VCC’s
+related corporation as defined in section 110(3) or (4)
+(as the case may be) that is an individual;
+(ii) an officer of the manager of the VCC, or of the
+manager of the VCC’s related corporation (being
+also a VCC);
+(iii) an officer of the custodian of the VCC, or of the
+custodian of the VCC’s related corporation (if the
+VCC or related corporation is a non‑umbrella VCC);
+(iv) an officer of the custodian of a sub‑fund of the VCC,
+or of the custodian of a sub‑fund of the VCC’s related
+corporation (if the VCC or related corporation is an
+umbrella VCC);
+(d) a reference in section 236(4A) and (5) of the Companies
+Act 1967 to a director or past director of the company or
+the corporation whose affairs are being investigated, is to a
+person who is or was —
+(i) a director of the VCC or the VCC’s related
+corporation;
+(ii) the manager of the VCC or of the VCC’s related
+corporation (being also a VCC); or
+(iii) the custodian of the VCC (being a non-umbrella
+VCC) or of the VCC’s related corporation (being
+also a non-umbrella VCC).
+Costs of investigations

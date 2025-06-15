@@ -1,0 +1,55 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 126: (1) This section applies in place of section 222 of the
+============================================================
+
+Part: PART 10
+Type: dash
+Word Count: 376
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Companies Act 1967.
+(2) Where a receiver or manager of the property of a VCC has been
+appointed, every invoice order for goods or business letter issued by
+or on behalf of —
+(a) the VCC or any of its sub‑funds;
+(b) the receiver or manager of the property of the VCC or any
+of its sub‑funds (if applicable); or
+(c) the liquidator of the VCC or any of its sub‑funds
+(if applicable),
+being a document in which the name of the VCC or any of its
+sub‑funds appears, must contain a statement immediately following
+the name of the VCC or sub‑fund, that a receiver or manager has been
+appointed in respect of the property of the VCC.
+(3) Where a receiver or manager of the property of a sub‑fund of an
+umbrella VCC has been appointed, every invoice order for goods or
+business letter issued by or on behalf of —
+(a) the umbrella VCC for the sub‑fund;
+(b) the receiver or manager of the property of the sub‑fund; or
+(c) the liquidator of the sub‑fund,
+being a document in which the name of the sub‑fund appears, must
+contain a statement immediately following the name of that sub‑fund,
+that a receiver or manager has been appointed in respect of the
+property of the sub‑fund.
+(4) To avoid doubt, subsections (2) and (3) apply cumulatively in a
+case where a receiver or manager has been appointed in respect of the
+property of an umbrella VCC, and the same or another receiver or
+manager has been appointed in respect of the property of any of its
+sub‑funds.
+(5) If subsection (2) or (3) is contravened, the VCC and each of the
+following shall be guilty of an offence:
+(a) every officer of the VCC who knowingly and wilfully
+authorises or permits the default;
+(b) the liquidator of the VCC or the sub‑fund (as the case may
+be), if he or she knowingly and wilfully authorises or
+permits the default;
+(c) the receiver or manager of the property of the VCC or the
+sub‑fund (as the case may be), if he or she knowingly and
+wilfully authorises or permits the default.
+Payment of certain debts out of assets subject to floating charge
+in priority to claims under charge

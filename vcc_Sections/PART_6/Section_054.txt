@@ -1,0 +1,19 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 54: Subject to section 5, section 147 of the Companies Act 1967
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 41
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+applies to a director of a VCC as it applies to a director of a company,
+and for this purpose a reference in that section to section 145 of the
+Companies Act 1967 is to section 48.
+Restriction on undischarged bankrupt

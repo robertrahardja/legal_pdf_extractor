@@ -1,0 +1,71 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 82: (1) Despite any duty of confidentiality or other restriction on
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 589
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+the disclosure of information under any written law, common law or
+contract, a VCC must, on the request of —
+(a) the manager of the VCC;
+(b) the custodian of the VCC (being a non‑umbrella VCC);
+(c) a public authority, or any person acting on behalf of a
+public authority, for the purpose of enabling the public
+authority to administer or enforce any written law; or
+(d) any person entitled to inspect the register of members of
+the VCC pursuant to an order of the Court,
+provide to that person or public authority any information in the
+register of members of the VCC, or allow that person or public
+authority to inspect the register.
+(2) Despite any duty of confidentiality or other restriction on the
+disclosure of information under any written law, common law or
+contract, a VCC must, on the request of a member of the VCC,
+provide to the member any information in the register of members of
+the VCC relating to that member, or allow that member to inspect any
+part of the register relating to that member.
+(3) Despite any duty of confidentiality or other restriction on the
+disclosure of information under any written law, common law or
+contract, an umbrella VCC must, on the request of the custodian of a
+sub‑fund of the VCC, provide to the custodian any information in the
+register of members of the VCC relating to members holding shares
+issued in respect of that sub‑fund, or allow the custodian to inspect
+any part of the register relating to those members.
+(4) Any person or public authority allowed to inspect the register
+under subsection (1) may request the VCC to provide the person with
+a copy of the register, or any part of the register, on payment in
+advance of $1 or such lesser sum as the VCC requires for every page.
+(5) A member of a VCC or the custodian of a sub‑fund of a VCC
+may request the VCC to provide the member or custodian with a copy
+of any part of the register that relates to the member or a member of
+the VCC holding shares in respect of the sub‑fund (as the case may
+be), on payment in advance of $1 or such lesser sum as the VCC
+requires for every page.
+(6) The VCC must cause any copy requested under subsection (4)
+or (5) to be sent to the person, public authority, member or custodian
+within a period of 21 days (or such further period as agreed with the
+person, public authority, member or custodian) starting on the day
+immediately after the day on which the request is received by the
+VCC.
+(7) If any copy so requested is not sent within the period mentioned
+in subsection (6), the VCC and every officer of the VCC who is in
+default shall each be guilty of an offence and shall each be liable on
+conviction to a fine not exceeding $400, and also to a default penalty.
+(8) If subsection (1), (2) or (3) is contravened, the VCC and every
+officer of the VCC who is in default shall each be guilty of an offence
+and shall each be liable on conviction to a fine not exceeding $1,000,
+and also to a default penalty.
+(9) In this section, “public authority” means —
+(a) the Government, including any ministry, department or
+agency of the Government, or an Organ of State;
+(b) ACRA;
+(c) MAS;
+(d) any other statutory body; or
+(e) any tribunal appointed under any written law.

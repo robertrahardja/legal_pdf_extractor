@@ -1,0 +1,115 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 19: (1) The following provisions are implied in the constitution of
+============================================================
+
+Part: PART 3
+Type: dash
+Word Count: 710
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+every VCC:
+(a) the liability of a member of the VCC is limited to the
+amount (if any) unpaid on the shares held by the member;
+(b) the sole object of the VCC is to be one or more collective
+investment schemes in the form of a body corporate;
+(c) the property of the VCC must be measured on a fair value
+basis;
+(d) the actual value of the paid-up share capital of the VCC is
+at all times equal to the net asset value of the VCC;
+(e) shares of the VCC are to be issued, redeemed or
+repurchased at a price equal to the proportion of the net
+asset value of the VCC represented by each share, although
+the price may be adjusted by adding or subtracting (as the
+case may be) fees and charges in accordance with the
+constitution;
+(f) shares of the VCC that relate to an arrangement mentioned
+in paragraph (aa) or (b) of the definition of “closed‑end
+fund” in section 2(1) of the Securities and Futures
+Act
+under
+which
+units
+that
+are
+issued
+are
+exclusively or primarily non‑redeemable at the election of
+the holders of the units, and listed for quotation on a
+securities exchange, are to be issued, redeemed or
+repurchased in accordance with the applicable listing
+requirements of the securities exchange;
+(g) the provisions in paragraphs (e) and (f) do not apply in
+relation to any shares during the initial offer period of the
+shares.
+[28/2019]
+(2) It is also implied in the constitution of every VCC that is an
+umbrella VCC that the VCC’s assets and liabilities must be allocated
+to, and used to discharge the liabilities of, each of its sub‑funds in
+accordance with section 29(1) and (3).
+(3) Any provision in the constitution is void to the extent that it is
+inconsistent with any provision implied in it under subsection (1)
+or (2).
+(4) The constitution of every VCC must state —
+(a) the name of the VCC and that it is incorporated under this
+Act;
+(b) the name of the manager of the VCC;
+(c) the full name, address and occupation of the subscriber or
+each subscriber to the constitution;
+(d) that the subscriber or each subscriber is desirous of being
+formed into a VCC and agrees to take the number of shares
+in the capital of the VCC set out opposite the subscriber’s
+name;
+(e) details of the right of the holder of a share in the VCC to
+participate in or receive profits, income, or other payments
+or
+returns
+arising
+from
+the
+acquisition,
+holding,
+management
+or
+disposal
+of,
+the
+exercise
+of,
+the
+redemption of, or the expiry of, any right, interest, title
+or benefit in the property or any part of the property of the
+VCC, or to receive sums paid out of such profits, income,
+or other payments or returns;
+(f) details of the following rights (if any) of the holder of a
+share in the VCC:
+(i) the right to vote at any general meeting or at any
+meeting of shareholders of that class of shares;
+(ii) the right to redeem or repurchase shares;
+(iii) the right in respect of a scheme of arrangement,
+merger, reconstruction or amalgamation involving
+the VCC;
+(g) if any right in paragraph (f) does not apply, that fact; and
+(h) in respect of a VCC that consists of, or is to consist of, 2 or
+more collective investment schemes —
+(i) that fact; and
+(ii) the policy of the VCC for forming a sub‑fund, and
+allocating in accordance with section 29(3) any
+assets and liabilities mentioned in that provision
+between sub‑funds.
+(5) The constitution of a VCC must contain the regulations for the
+VCC.
+(6) The constitution of each VCC must comply with such additional
+requirements as may be prescribed, and must be dated.
+(7) A copy of the constitution, duly signed by the subscriber or each
+subscriber and stating the number of shares that the subscriber has
+agreed to take, must be kept at the registered office of the VCC.
+(8) Subject to section 5, sections 23(1B), 39 and 40 of the
+Companies Act 1967 apply in relation to the constitution of a VCC
+as they apply in relation to the constitution of a company.
+Alteration of constitution

@@ -1,0 +1,31 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 33: (1) Despite not being a legal person, a sub‑fund of an
+============================================================
+
+Part: PART 4
+Type: dash
+Word Count: 169
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+umbrella VCC may be wound up in accordance with subsection (2)
+as if it were a legal person.
+(2) Part 10 and section 389 (as it relates to the provisions of Part 10)
+of the Companies Act 1967 apply in relation to the winding up of a
+sub‑fund of an umbrella VCC as they apply in relation to the winding
+up of a company limited by shares, subject to section 5 and the
+modifications in the First Schedule.
+(3) Section 129 applies (with the necessary modifications) in
+relation to the appointment of a liquidator of a sub‑fund and a person
+acting as such liquidator, as it applies in relation to the appointment of
+a liquidator of a VCC and a person acting as such liquidator, and for
+this purpose —
+(a) a reference in section 129(1)(b) and (c) to the VCC is to the
+umbrella VCC of which the sub‑fund is a part; and
+(b) the reference in section 129(2)(b) to creditors is to the
+creditors of the sub‑fund.

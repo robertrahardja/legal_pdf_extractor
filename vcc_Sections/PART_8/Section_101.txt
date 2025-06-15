@@ -1,0 +1,39 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 101: (1) Every VCC must cause to be kept at the VCC’s
+============================================================
+
+Part: PART 8
+Type: dash
+Word Count: 238
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+registered office, or such other place as the directors think fit —
+(a) a copy of each of the documents that was laid before the
+VCC at its annual general meeting under section 100, for a
+period of at least 5 years after the date of the annual general
+meeting; or
+(b) in respect of any financial year for which the VCC need not
+hold an annual general meeting because of section 78(1) —
+(i) a copy of the financial statements; or
+(ii) in the case of a VCC that is a parent company, a copy
+of the consolidated financial statements and balance
+sheet (including every document required by law to
+be attached to them),
+(b) and a copy of the auditors’ report where such financial
+statements or consolidated financial statements are duly
+audited, that were sent to all persons entitled to receive
+notice of general meetings of the VCC in accordance with
+section 105(1) and (2), for a period of at least 5 years after
+the date on which the documents were sent.
+(2) Subject to section 5, section 201AA(2) to (5) of the Companies
+Act 1967 applies in relation to subsection (1) and any document kept
+or required to be kept under that subsection, as it applies in relation to
+section 201AA(1) of that Act and any document kept or required to be
+kept under that section.
+When directors need not lay financial statements before VCC

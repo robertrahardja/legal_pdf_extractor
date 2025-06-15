@@ -1,0 +1,56 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 42: (1) Division 8 of Part 4 of the Companies Act 1967 applies in
+============================================================
+
+Part: PART 5
+Type: dash
+Word Count: 363
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+relation to a VCC and a charge created by it (including one created
+over any property or undertaking of a sub‑fund), as it applies in
+relation to a company and a charge created by it, subject to the
+modifications in subsection (2) and to sections 5 and 43.
+(2) The modifications are as follows:
+(a) sections
+131(3AA),
+and
+of
+the
+Companies Act 1967 are omitted;
+(b) the reference in section 131(3) of the Companies Act 1967
+to 3 January 2016 is to 14 January 2020;
+(c) in the case of a charge over any property or undertaking of
+a sub‑fund, the statement mentioned in section 131(5) of
+the Companies Act 1967 in respect of that charge must
+contain, in addition to the particulars in that provision, the
+name and registration number of the sub‑fund;
+(d) in the case of a charge over any property or undertaking of
+a sub‑fund, there must be entered in the register of charges
+under section 134(1) of the Companies Act 1967, in
+addition to the particulars set out in that provision, the
+name and registration number of the sub‑fund;
+(e) section 136(1) of the Companies Act 1967 also applies in a
+case where the property or undertaking that is the subject
+of a registered charge ceases to form part of the property or
+undertaking of a sub‑fund, and in that event the statement
+to be lodged under that provision is a statement of that fact;
+(f) in the case of a charge over any property or undertaking of
+a sub‑fund, the reference in section 138(1A)(b)(ii) of the
+Companies Act 1967 to the date the property or
+undertaking ceases to form part of the company’s
+property or undertaking is to the date the property or
+undertaking ceases to form part of the property or
+undertaking of the sub‑fund;
+(g) in the case of a charge over the property or undertaking of a
+sub‑fund, the register of charges in section 138(2) of the
+Companies Act 1967 must also contain (in addition to a
+description of the matters set out in that provision) the
+name and registration number of the sub‑fund.
+Duty of VCC to register charges existing on property acquired

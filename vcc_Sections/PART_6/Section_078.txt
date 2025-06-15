@@ -1,0 +1,73 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 78: (1) A VCC need not hold an annual general meeting for a
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 566
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+financial year if —
+(a) the directors of the VCC give written notice to the VCC’s
+members, at least 60 days before the last date on which a
+VCC must hold an annual general meeting under
+section 77, that an annual general meeting for the
+financial year will not be held; or
+(b) the VCC has sent to all persons entitled to receive notice of
+general meetings of the VCC the documents mentioned in
+section 105(1) and (2) within the period specified in
+section 105(1)(b).
+(2) The notice under subsection (1) may specify more than
+one financial year for which an annual general meeting will not be
+held, and subsection (1) is effective for each of those years.
+(3) However, subsection (1) does not affect any liability already
+incurred by reason of default in holding an annual general meeting.
+(4) For any financial year in which —
+(a) an annual general meeting would be required to be held but
+for this section; and
+(b) no such meeting has been held,
+one or more members of the VCC holding, or together holding, not
+less than 10% of the total number of paid-up shares carrying the right
+of voting at general meetings may, by notice to the VCC not later than
+14 days before the date by which an annual general meeting would
+have been required under section 77 to be held, require the holding of
+an annual general meeting for that financial year.
+(5) The power of a member under subsection (4) to require the
+holding of an annual general meeting is exercisable not only by the
+giving of a notice but also by the transmission to the VCC at such
+address as may for the time being be specified for the purpose by or
+on behalf of the VCC of an electronic communication containing the
+requirement.
+(6) If such a notice is given or an electronic communication is
+transmitted, section 77(1) and (4) applies with respect to the calling of
+the meeting and the consequences of default.
+(7) Unless the contrary intention appears, if a VCC need not hold an
+annual general meeting for a financial year then, for that financial
+year —
+(a) a reference in a provision of this Act (including a provision
+of the Companies Act 1967 as applied by this Act) to the
+doing of anything at an annual general meeting is to the
+doing of that thing by way of a resolution by written means
+under section 184A of the Companies Act 1967 as applied
+by section 80(3);
+(b) a reference in a provision of this Act (including a provision
+of the Companies Act 1967 as applied by this Act) to the
+date or conclusion of an annual general meeting is, unless
+the meeting is held, to the date of expiry of the period
+within which an annual general meeting is required under
+section 77 to be held; and
+(c) the reference in section 97(1) to the lodging of a return with
+the Registrar after its annual general meeting is to the
+lodging of that return after the VCC has sent to all persons
+entitled to receive notice of general meetings of the VCC
+the documents mentioned in section 105(1) and (2).
+(8) In this section, an address of a person includes any number or
+address used for electronic communication.
+Convening of extraordinary general meeting on requisition
+and calling of meetings

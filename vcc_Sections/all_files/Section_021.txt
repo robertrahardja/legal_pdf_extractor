@@ -1,0 +1,228 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 21: (1) Except with the consent of the Minister or as provided in
+============================================================
+
+Part: PART 3
+Type: dash
+Word Count: 1380
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+subsection (3), the Registrar must refuse to register a VCC under a
+name which, in the opinion of the Registrar —
+(a) is undesirable;
+(b) is identical to the name of any other VCC or any company,
+limited
+liability
+partnership,
+limited
+partnership
+or
+corporation or to any registered business name;
+(c) is identical to a name reserved under any of the following:
+(i) section 27(12B) or 378(15) of the Companies
+Act 1967;
+(ii) section
+27(12B)
+of
+that
+Act
+as
+applied
+by
+section 357(2) of that Act;
+(iii) section
+27(12B)
+of
+that
+Act
+as
+applied
+by
+subsection (8);
+(iv) section
+27(12B)
+of
+that
+Act
+as
+applied
+by
+section 133(2);
+(v) section 16 of the Business Names Registration
+Act 2014;
+(vi) section 23(4) of the Limited Liability Partnerships
+Act 2005;
+(vii) section 17(4) of the Limited Partnerships Act 2008;
+or
+(d) is a name of a kind that the Minister has directed the
+Registrar not to accept for registration.
+(2) In addition to subsection (1), the Registrar must (except with the
+consent of the Minister) refuse to register a VCC under a name if —
+(a) it is identical to the name of a VCC or company that was
+dissolved unless —
+(i) in a case where the VCC or company was dissolved
+following its winding up under Part 11, or Part X of
+the Companies Act (as the case may be) — a period
+of at least 2 years has passed after the date of
+dissolution; or
+(ii) in a case where the VCC or company was dissolved
+following its name being struck off the register under
+section 344 or 344A of the Companies Act 1967 as
+applied by section 130, or section 344 or 344A of the
+Companies Act 1967 (as the case may be) — a period
+of at least 6 years has passed after the date of
+dissolution;
+(b) it is identical to the business name of a person whose
+registration and registration of that business name has been
+cancelled under the Business Names Registration Act 2014
+or had ceased under section 22 of that Act, unless a period
+of at least one year has passed after the date of cancellation
+or cessation;
+(c) it is identical to the name of a foreign company notice of
+the dissolution of which has been given to the Registrar of
+Companies
+under
+section
+377(2)
+of
+the
+Companies Act 1967, unless a period of at least 2 years
+has passed after the date of dissolution;
+(d) it is identical to the name of a limited liability partnership
+that was dissolved, unless —
+(i) in a case where the limited liability partnership was
+dissolved following its winding up under section 39
+of, and the Fifth Schedule to, the Limited Liability
+Partnerships Act 2005 — a period of at least 2 years
+has passed after the date of dissolution; or
+(ii) in a case where the limited liability partnership was
+dissolved following its name being struck off the
+register under section 63 of the Limited Liability
+Partnerships Act 2005 — a period of at least 6 years
+has passed after the date of dissolution; or
+(e) it is identical to the name of a limited partnership that was
+cancelled or dissolved, unless —
+(i) in a case where the registration of the limited
+partnership was cancelled under section 14(1) or
+19(4) of the Limited Partnerships Act 2008 — a
+period of at least one year has passed after the date of
+cancellation; or
+(ii) in a case where notice was lodged with the Registrar
+of Limited Partnerships that the limited partnership
+was dissolved under section 19(2) of the Limited
+Partnerships Act 2008 — a period of at least one year
+has passed after the date of dissolution.
+(3) Despite subsection (1), the Registrar may register a VCC —
+(a) under a name that is identical to the name of a foreign
+company registered under Division 2 of Part 11 of the
+Companies Act 1967 —
+(i) in respect of which notice was lodged under
+section 377(1) of that Act that the foreign company
+has ceased to have a place of business in Singapore
+or ceased to carry on business in Singapore, if a
+period of at least 3 months has passed after the date
+of cessation; and
+(ii) the name of which was struck off the register under
+section 377(8), (9) or (10) of that Act, if a period of at
+least 6 years has passed after the date the name was
+so struck off; or
+(b) under a name that is identical to the name of a limited
+partnership in respect of which notice was lodged under
+section 19(1) of the Limited Partnerships Act 2008 that the
+limited partnership ceased to carry on business in
+Singapore — if a period of at least one year has passed
+after the date of cessation.
+(4) Despite this section and section 28 of the Companies Act 1967
+as applied by subsection (8), where the Registrar is satisfied that the
+VCC
+has
+been
+registered
+(whether
+through
+inadvertence
+or
+otherwise) by a name —
+(a) which is one that is not permitted to be registered under
+subsection (1)(a), (b) or (d);
+(b) which is one that is not permitted to be registered under
+subsection (2) until the expiry of the relevant period
+mentioned in that subsection;
+(c) which is one that is permitted to be registered under
+subsection (3) only after the expiry of the relevant period
+mentioned in that subsection;
+(d) which so nearly resembles the name of any other VCC or
+any company, corporation, limited liability partnership or
+limited partnership, or any registered business name, as to
+be likely to be mistaken for it; or
+(e) the use of which has been restrained by an injunction
+granted under the Trade Marks Act 1998,
+the Registrar may direct the firstmentioned VCC to change its name,
+and the VCC must comply with the direction within 6 weeks after the
+date of the direction or such longer period as the Registrar may allow,
+unless the direction is annulled on appeal by the Minister.
+(5) The
+Minister
+must
+cause
+a
+direction
+made
+under
+subsection (1)(d) to be published in the Gazette.
+(6) Subject to section 5, section 27(2A) to (5A) of the Companies
+Act 1967 applies for the purposes of subsection (4) as it applies for
+the purposes of section 27(2) of that Act, and for this purpose —
+(a) a
+reference
+to
+a
+ground
+in
+section
+27(2)
+of
+the
+Companies Act 1967 is to a ground in subsection (4);
+(b) the reference in section 27(5) of the Companies Act 1967
+to 3 January 2016 is to 14 January 2020; and
+(c) the reference in section 27(5A) of the Companies Act 1967
+to an injunction in section 27(2)(c) of that Act is to an
+injunction in subsection (4)(e).
+(7) AVCC must have “VCC” as part of and at the end of its name.
+(8) Sections 27(10) to (15) and 28 of the Companies Act 1967 apply
+in relation to a VCC or an intended VCC as they apply in relation to a
+company or an intended company, subject to section 5 and the
+following modifications:
+(a) a reference in section 27(11) of the Companies Act 1967 to
+section 19(3) of that Act is to section 16(4) of this Act;
+(b) a reference in sections 27(12) and 28 of the Companies
+Act 1967 to section 27(1), (1A) and (1B) of that Act is to
+subsections (1), (2) and (3), respectively;
+(c) the reference in section 28(3)(a) of the Companies
+Act 1967 to section 27(1)(a), (b) and (d) of that Act is to
+subsection (1)(a), (b) and (d), respectively;
+(d) the reference in section 28(3)(d) of the Companies
+Act 1967 to the name of another company is to the name
+of another VCC or a company;
+(e) the
+reference
+in
+section
+28(3AA)
+of
+the
+Companies Act 1967 to section 27(1)(c) of that Act is to
+subsection (1)(c);
+(f) the reference in section 28(3D) of the Companies Act 1967
+to 3 January 2016 is to 14 January 2020;
+(g) section 28(4) of the Companies Act 1967 is omitted.
+(9) In this section, “registered business name” has the meaning
+given by section 2(1) of the Business Names Registration Act 2014.
+Membership of holding company

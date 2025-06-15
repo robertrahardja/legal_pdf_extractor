@@ -1,0 +1,90 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 127: (1) This section applies in place of section 226 of the
+============================================================
+
+Part: PART 10
+Type: dash
+Word Count: 545
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Companies Act.
+(2) Where —
+(a) a receiver is appointed on behalf of the holders of any
+debentures of a VCC secured by a floating charge; or
+(b) possession is taken, by or on behalf of holders of
+debentures of a VCC, of any property of a VCC
+comprised in or subject to a floating charge,
+then, if the VCC is not at the time in the course of being wound up, the
+following:
+(c) debts which in every winding up of a VCC are preferential
+debts and are due by way of wages, salary, retrenchment
+benefit
+or
+ex
+gratia
+payment,
+vacation
+leave
+or
+superannuation or provident fund payments;
+(d) any amount which in the winding up of a VCC is payable
+pursuant to section 328(4) or (6) of the Companies Act as
+applied by section 130,
+must be —
+(e) paid out of any assets coming in to the hands of the receiver
+or other person taking possession in priority to any claim
+for principal or interest in respect of the debentures; and
+(f) paid in the same order of priority as prescribed by
+section 328 of the Companies Act (as applied by
+section 130) in respect of those debts and amount.
+(3) Where —
+(a) a receiver is appointed on behalf of the holders of any
+debentures of a particular sub‑fund of an umbrella VCC
+secured by a floating charge; or
+(b) possession is taken, by or on behalf of holders of
+debentures of a particular sub‑fund of an umbrella VCC,
+of any property comprised in or subject to a floating
+charge,
+then, if the sub‑fund is not at the time in the course of being wound
+up, the following:
+(c) debts which in every winding up of a sub‑fund are
+preferential debts and are due by way of wages, salary,
+retrenchment benefit or ex gratia payment, vacation leave
+or superannuation or provident fund payments;
+(d) any amount which in the winding up of a sub‑fund is
+payable
+pursuant
+to
+section
+328(4)
+or
+(6)
+of
+the
+Companies Act as applied by section 33,
+must be —
+(e) paid out of any assets coming in to the hands of the receiver
+or other person taking possession in priority to any claim
+for principal or interest in respect of the debentures; and
+(f) paid in the same order of priority as prescribed by
+section 328 of the Companies Act (as applied by
+section 33) in respect of those debts and amount.
+(4) For the purposes of subsections (2) and (3) —
+(a) a floating charge is a charge which, as created, was a
+floating charge; and
+(b) a reference in section 328(1)(c), (d), (e), (f) and (g) of the
+Companies Act 1967 (as applied by section 33 or 130, as
+the case may be) to the commencement of the winding up
+is to the date of the appointment of the receiver or of the
+possession being taken as described in subsection (2) or
+(3), as the case may be.
+(5) Any payments made under this section must be recouped, as far
+as possible, out of the assets of the VCC or the sub‑fund (as the case
+may be) that are available for payment of general creditors.
+Enforcement of duty of receiver, etc., to make returns

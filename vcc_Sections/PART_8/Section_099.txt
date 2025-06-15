@@ -1,0 +1,60 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 99: (1) Subject to section 5, section 199 of the Companies
+============================================================
+
+Part: PART 8
+Type: dash
+Word Count: 366
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Act 1967 applies in relation to a VCC and a subsidiary company
+of a VCC, as it applies in relation to a company or public company,
+and a subsidiary company of a public company.
+(2) In addition to the requirements of section 199 of the Companies
+Act 1967 as applied by subsection (1), an umbrella VCC must also —
+(a) keep separate accounting and other records for each
+sub‑fund —
+(i) that
+sufficiently
+explain
+the
+transactions
+and
+financial position of the sub‑fund; and
+(ii) that will enable true and fair financial statements,
+and any document required to be attached to those
+records, to be prepared from time to time; and
+(b) devise and maintain a system of internal accounting
+controls sufficient to provide a reasonable assurance
+that —
+(i) assets of each sub‑fund are safeguarded against loss
+from unauthorised use or disposition; and
+(ii) transactions of each sub‑fund are properly authorised
+and that they are recorded as necessary to permit the
+preparation of true and fair financial statements of
+the VCC and to maintain accountability of assets.
+(3) The VCC mentioned in subsection (2) must —
+(a) keep the records mentioned in subsection (2)(a) in a
+manner that will enable them to be conveniently and
+properly audited; and
+(b) keep any such record that relates to a particular transaction
+or operation for a period of not less than 5 years starting on
+the last day of the financial year in which the transaction or
+operation is completed.
+(4) Subject to section 5 and subsection (5), section 199(3), (4) and
+(5) of the Companies Act 1967 applies in relation to the records
+mentioned in subsection (2)(a) as it applies in relation to the
+accounting and other records of a company.
+(5) If subsection (2) or (3), or section 199(3) or (4) of the
+Companies Act 1967 as applied by subsection (4), is contravened,
+the VCC and every officer of the VCC who is in default shall each be
+guilty of an offence and shall each be liable on conviction to a fine not
+exceeding $5,000 or to imprisonment for a term not exceeding
+12 months and also to a default penalty.
+Financial statements and consolidated financial statements

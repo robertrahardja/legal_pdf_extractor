@@ -1,0 +1,303 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 130: (1) Part 10 and section 389 (as it applies to the provisions in
+============================================================
+
+Part: PART 11
+Type: dash
+Word Count: 2180
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Part 10) of the Companies Act 1967 apply in relation to the winding
+up of a VCC as they apply in relation to the winding up of a company
+limited by shares, subject to section 5 and the modifications in this
+section.
+(2) Sections 250(1)(f), (2) and (3), 253(2)(b), 257(3), 288 and
+342(7) and Divisions 5 and 6 of Part 10 of the Companies Act 1967
+are omitted.
+(3) Subject to subsection (5), a reference to an officer of a company
+in the following:
+(a) Division 2 of Part 10 of the Companies Act 1967 (other
+than section 285(1) and (2));
+(b) Subdivision (4) of Division 4 of Part 10 of that Act (other
+than section 339(1));
+(c) sections 344(4)(a) and 344A(7)(a) of that Act,
+is a reference to —
+(d) an officer of the VCC;
+(e) the manager of the VCC; and
+(f) the custodian of the VCC (being a non‑umbrella VCC).
+(4) A reference in section 285(1) and (2) of the Companies
+Act 1967 to an officer of the company is to an officer of the VCC,
+an officer of the manager of the VCC or an officer of the custodian of
+the VCC (being a non‑umbrella VCC).
+(5) A reference in section 286(1) of the Companies Act 1967 to the
+making of a direction to an officer or former officer of a company to
+attend before the Court for examination, is to the making of such
+direction to any officer or former officer of the VCC, any officer of
+the manager of the VCC, or any officer of the custodian of the VCC
+(being a non‑umbrella VCC), whether or not the report mentioned in
+that provision states that an act mentioned in that provision has been
+committed by that officer, former officer, manager or custodian.
+(6) In section 254(4) of the Companies Act 1967 —
+(a) the reference to employees of a company is to employees
+of the VCC and any person engaged by the VCC to provide
+any fund administration service; and
+(b) the reference to a chief executive officer is omitted.
+(7) The following provision applies in place of section 253(1) of the
+Companies Act 1967 (which sets out who may apply to the Court for
+the winding up of a company):
+“AVCC, whether or not it is being wound up voluntarily, may be
+wound up under an order of the Court on the application of one
+or more of the following:
+(a) the VCC;
+(b) any creditor, including a contingent or prospective
+creditor, of the VCC;
+(c) a contributory or any person who is the personal
+representative of a deceased contributory or the
+Official Assignee of the estate of a bankrupt
+contributory;
+(d) the liquidator;
+(e) the Minister pursuant to section 119(1);
+(f) the Minister on a ground specified in paragraph (c),
+(j), (l), (m) or (n) of the provision that replaced
+section 254(1) of the Companies Act 1967 under
+subsection (8);
+(g) MAS on a ground specified in paragraph (o) of the
+provision
+that
+replaced
+section
+254(1)
+of
+the
+Companies Act 1967 under subsection (8).”.
+(8) The following provision applies in place of section 254(1) of the
+Companies Act 1967 (which sets out the grounds on which the Court
+may order a company to be wound up):
+“The Court may order the winding up of a VCC if —
+(a) the VCC has by special resolution resolved that it be
+wound up by the Court;
+(b) the VCC does not commence business within a year
+starting on the date of its incorporation or suspends its
+business for a whole year;
+(c) the VCC has no member;
+(d) the VCC is unable to pay its debts;
+(e) MAS has under section 288 of the Securities and
+Futures
+Act
+revoked
+or
+withdrawn
+the
+authorisation of the collective investment scheme
+constituted as the VCC;
+(f) the directors have acted in the affairs of the VCC in
+their own interests rather than in the interests of the
+members as a whole, or in any other manner which
+appears to be unfair or unjust to other members;
+(g) an inspector appointed under Part 9 has reported that
+he or she is of the opinion —
+(i) that the VCC cannot pay its debts and should be
+wound up; or
+(ii) that it is in the interests of the public or of the
+shareholders or of the creditors that the VCC
+should be wound up;
+(h) when the period (if any) fixed for the duration of the
+VCC by the constitution expires or the event (if any)
+happens on the occurrence of which the constitution
+provides that the VCC is to be dissolved;
+(i) the Court is of the opinion that it is just and equitable
+that the VCC be wound up;
+(j) the VCC has carried on multi‑level marketing or
+pyramid selling in contravention of any written law
+that prohibits multi‑level marketing or pyramid
+selling;
+(k) the VCC is being used for an unlawful purpose or for
+purposes prejudicial to public peace, welfare or good
+order in Singapore or against national security or the
+national interest;
+(l) the VCC, being a foreign corporate entity that was
+registered as a VCC under section 135(1), has
+breached any of the conditions imposed under that
+section for its registration;
+(m) the VCC has conducted business outside the scope of
+its sole object in section 15;
+(n) the VCC has contravened section 46 for no less than
+the
+period
+prescribed
+by
+regulations
+under
+section 165; or
+(o) the VCC has —
+(i) contravened
+a
+direction
+issued
+under
+section 83(1) or 84(1); or
+(ii) contravened section 84(3), or any regulation
+made under section 83(1) or 84(1).”.
+(9) A reference in a provision of the Companies Act 1967 as applied
+by this section in the first column of the following table, to a
+paragraph of section 254(1) of that Act in the second column of the
+table, is to the paragraph of the provision that replaces section 254(1)
+of the Companies Act 1967 in subsection (8) and is opposite the
+firstmentioned paragraph in the third column of the table:
+Provision of
+Companies Act 1967 that is
+applied by this section
+Paragraph of section 254(1)
+of Companies Act 1967
+Paragraph of provision in
+subsection (8)
+Section 253(2)(a)
+Paragraph (a)
+Paragraph (a)
+Paragraph (b)
+—
+Paragraph (c)
+Paragraph (b)
+Paragraph (e)
+Paragraph (d)
+Paragraph (i)
+Paragraph (i)
+Sections 254(3) and (4),
+263(da) and 322A
+Paragraph (m)
+Paragraph (k)
+(10) The reference in section 268(4) of the Companies Act 1967 to
+treasury shares is to shares held by a subsidiary of the VCC under
+section 22(6) or (11), if any.
+(11) The following provision applies in place of section 281(1) of
+the Companies Act 1967 (which enables the Court to direct a
+contributory to pay to a company moneys due from the contributory
+and the extent to which set‑off is allowed):
+“The Court may make an order directing any contributory on the
+list of contributories to pay to the VCC, in the manner directed
+by the order, any money due from the contributory or from the
+estate
+of
+the
+person
+whom
+the
+contributory
+represents
+(excluding any money payable by the contributory or the
+estate by virtue of any call pursuant to this Act), and when all the
+creditors are paid in full, any money due on any account to a
+contributory from the VCC may be allowed to the contributory
+by way of set‑off against any subsequent call.”.
+(12) A reference in sections 286 and 287 of the Companies
+Act 1967 to the affairs of the company is to the affairs of the VCC.
+(13) The reference in section 287 of the Companies Act 1967 to a
+contributory, director or former director of a company is to —
+(a) a contributory, director or former director of a VCC; or
+(b) a director or former director of a manager or custodian of
+the VCC (being a non‑umbrella VCC).
+(14) Rules made under section 164 may make provision enabling or
+requiring all or any of the powers and duties conferred and imposed
+on the Court by Part 10 of the Companies Act 1967 (as applied by this
+section) in respect of —
+(a) the holding and conducting of meetings to ascertain the
+wishes of creditors and contributories;
+(b) the settling of lists of contributories, the rectifying of the
+register of members where required, and the collecting and
+applying of the assets;
+(c) the paying, delivery, conveyance, surrender or transfer of
+money, property, books or papers to the liquidator;
+(d) the making of calls and the adjusting of the rights of
+contributories; and
+(e) the fixing of a time within which debts and claims must be
+proved,
+to be exercised or performed by the liquidator as an officer of the
+Court and subject to the control of the Court, but the liquidator may
+not, except with the special permission of the Court, rectify the
+register of members, or make any call except with the special
+permission of the Court or the sanction of the committee of
+inspection.
+[Act 25 of 2021 wef 01/04/2022]
+(15) A reference in section 289(1) or 305 of the Companies
+Act 1967 to any power of, given to or conferred on the Court or the
+liquidator under or by that Act is to any power of, given to or
+conferred on the Court or the liquidator (as the case may be) under or
+by a provision of this Act (including by a provision of the Companies
+Act 1967 applied by this Act).
+(16) The reference in section 257(2)(b), 270(4), 274(1), 288 or
+298(3) of the Companies Act 1967 to rules is to rules made under
+section 164.
+(17) The reference in section 313(5) of the Companies Act 1967 to
+an officer of a company is to an officer or the manager of the VCC, or
+the custodian of the VCC (being a non‑umbrella VCC).
+(18) The reference in section 313(5) of the Companies Act 1967 to
+an agent of a company is to an agent of the VCC, and includes a
+person engaged by the VCC to provide any fund administration
+service.
+(19) The reference in section 322 of the Companies Act 1967 to the
+Companies Liquidation Account is to a VCC Liquidation Account.
+(20) The reference in section 328(8) of the Companies Act 1967 to
+29 December 1967 is to 14 January 2020.
+(21) The reference in section 328(9)(a) of the Companies Act 1967
+to reconstruction or amalgamation of a company with another
+company is to the reconstruction or amalgamation of the VCC with a
+company or another VCC.
+(22) A reference in section 331 of the Companies Act 1967 to an
+acquisition or sale of any property, business or undertaking from or to
+a company includes any such acquisition or sale from or to a VCC,
+and that section applies accordingly.
+(23) The reference in section 339(1) of the Companies Act 1967 to
+an investigation under any other Part of the Companies Act 1967 is to
+an investigation under any other Part of this Act.
+(24) The following provision applies in place of section 339(2) of
+the Companies Act 1967 (which sets out when proper books of
+accounts are considered not to have been kept by a company under
+section 339(1) of that Act):
+“For the purposes of section 339(1), proper books of account are
+considered not to have been kept if —
+(a) there have not been kept such books or accounts as are
+necessary to exhibit and explain the transactions and
+financial position of the trade or business of the VCC,
+including —
+(i) books containing entries from day to day in
+sufficient detail of all cash received and cash
+paid; and
+(ii) where the trade or business involved dealings in
+goods, statements of the annual stocktakings
+and of all goods sold and purchased, showing
+the goods and the buyers and sellers of those
+goods in sufficient detail to enable those goods
+and those buyers and sellers to be identified; or
+(b) such books or accounts have not been kept in such
+manner as to enable them to be conveniently and
+properly audited, whether or not the VCC has
+appointed an auditor.”.
+(25) The reference in section 342(6) of the Companies Act 1967 to
+an agent of a company is to an agent of the VCC, and includes —
+(a) a banker or solicitor of the VCC;
+(b) any person employed by the VCC as an auditor, whether or
+not an officer of the VCC; and
+(c) any person engaged by the VCC to provide any fund
+administration service.
+(26) The reference in section 347(1) of the Companies Act 1967 to
+the operation of a previous written law corresponding with
+section 346 of the Companies Act 1967 or of a law of a designated
+country corresponding with section 354 of the Companies Act 1967 is
+omitted.
+(27) The reference in section 348 of the Companies Act 1967 to the
+operation
+of
+a
+previous
+written
+law
+corresponding
+with
+Subdivision (5) of Division 4 of Part 10 of the Companies Act 1967 is
+omitted.

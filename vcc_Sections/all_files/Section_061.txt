@@ -1,0 +1,65 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 61: (1) Subject to section 5, section 155C of the Companies
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 427
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Act 1967 applies in relation to a VCC as it applies in relation to a
+company.
+(2) Subject to any permission which the Court may give pursuant to
+an application under subsection (3), a person who is subject to a
+disqualification or disqualification order under section 149, 149A,
+154, 155 or 155A of the Companies Act 1967 must not act as a
+director of, or in any way (whether directly or indirectly) take part in
+or be concerned in the management of, any VCC during the period of
+the disqualification or disqualification order.
+[28/2019]
+[Act 25 of 2021 wef 01/04/2022]
+(3) A person who is subject to a disqualification or disqualification
+order under section 149, 154, 155 or 155A of the Companies
+Act 1967, may apply to the Court for permission to act as a director
+of, or to take part in or be concerned in the management of, a VCC
+during the period of the disqualification or disqualification order,
+upon giving the Minister at least 14 days’ notice of his or her intention
+to apply for such permission.
+[28/2019]
+[Act 25 of 2021 wef 01/04/2022]
+(4) On the hearing of any application under subsection (3), the
+Minister may be represented at the hearing and may oppose the
+granting of the application.
+(5) A person who contravenes subsection (2) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$10,000 or to imprisonment for a term not exceeding 2 years or to
+both.
+Debarment under Companies Act 1967
+61A.—(1) A person who has a debarment order made against him
+or her under section 155B of the Companies Act 1967 must not —
+(a) except in respect of a VCC of which the person is a director
+immediately before the making of the order, act as director
+of any VCC; or
+(b) except in respect of a VCC of which the person is a
+secretary immediately before the making of the order, act
+as secretary of any VCC.
+[28/2019]
+(2) Subsection (1) applies from (and including) the date that the
+debarment order is made until such time as the Registrar of
+Companies cancels or suspends the order under the Companies
+Act 1967.
+[28/2019]
+(3) A person who contravenes subsection (1) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$10,000 or to imprisonment for a term not exceeding 2 years or to
+both.
+[28/2019]
+Subdivision (3) — Duties and powers of directors, etc.
+Disclosure by director of interests in transactions, property,
+offices, etc.

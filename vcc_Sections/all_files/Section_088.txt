@@ -1,0 +1,51 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 88: Subdivision (2) of Division 2 of Part 4 of the FSMA 2022
+============================================================
+
+Part: PART 7
+Type: simple
+Word Count: 331
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+applies in relation to a request to MAS from an AML/CFT authority
+for assistance in relation to a VCC as it applies in relation to a request
+to MAS from an AML/CFT authority (as defined in section 17 of that
+Act) for assistance in that subdivision, subject to the necessary
+modifications and the following further modifications:
+(a) [Deleted by Act 18 of 2022 wef 28/04/2023]
+(b) the reference in section 19(1)(g)(ii) of the FSMA 2022 to
+the identity of the financial institution is to the identity of
+the VCC;
+[Act 18 of 2022 wef 28/04/2023]
+(c) the reference in section 19(3)(a) of the FSMA 2022 to any
+direction issued under section 15 or 16 of that Act, or to
+any regulations made under section 192 of that Act for the
+purposes of section 15 or 16 of that Act (as the case may
+be), is to a direction or regulation issued or made under
+section 83 or 84, as the case may be;
+[Act 18 of 2022 wef 28/04/2023]
+(d) a reference in section 20 of the FSMA 2022 to any
+prescribed written law or any requirement imposed under
+any such written law is to any prescribed written law as
+defined in section 17(1) of that Act or this Act, or any
+requirement imposed under such prescribed written law or
+this Act;
+[Act 18 of 2022 wef 28/04/2023]
+(e) the reference in section 20(2)(a) of the FSMA 2022 to a
+financial institution is to the VCC;
+[Act 18 of 2022 wef 28/04/2023]
+(f) the reference in section 20(2)(a) of the FSMA 2022 to a
+chief executive, a director, an executive officer, an
+employee, an agent or an office holder of a financial
+institution, is to a director, an executive officer, the
+manager, an employee, an agent or an office holder of
+the VCC, the custodian of the VCC (being a non‑umbrella
+VCC) or the custodian of a sub‑fund of the VCC.
+[Act 18 of 2022 wef 28/04/2023]
+Assistance to domestic authorities

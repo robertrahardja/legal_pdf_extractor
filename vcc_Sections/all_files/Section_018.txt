@@ -1,0 +1,35 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 18: (1) Without affecting the powers of the Registrar under
+============================================================
+
+Part: PART 3
+Type: dash
+Word Count: 168
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+section 9(7), the Registrar must not register a constitution of a
+proposed VCC under section 16 unless the Registrar is satisfied that
+all the requirements of this Act in respect of the registration have been
+complied with.
+(2) Despite anything in this Act or any rule of law, the Registrar
+must refuse to register the constitution of a proposed VCC if the
+Registrar is satisfied that —
+(a) the person named as its manager does not satisfy
+section 46(2);
+(b) none of its directors is either a director or qualified
+representative of the manager;
+(c) it is likely to be used for an unlawful purpose or for
+purposes prejudicial to public peace, welfare or good order
+in Singapore; or
+(d) it would be contrary to national security or the national
+interest for it to be registered.
+(3) Any person aggrieved by the Registrar’s decision under
+subsection (2) may, within 30 days after the date of the decision,
+appeal to the Minister whose decision is final.
+Constitution of VCC

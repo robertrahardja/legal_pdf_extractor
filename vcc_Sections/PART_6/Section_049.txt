@@ -1,0 +1,47 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 49: Section 146 (except subsection (5)) of the Companies Act 1967
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 229
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+applies in relation to a VCC or proposed VCC as it applies in relation
+to a company or proposed company, subject to section 5 and the
+following modifications:
+(a) a reference in section 146(1)(b) and (d) of the Companies
+Act 1967 to the register of chief executive officers of a
+company is to the register of managers of a VCC;
+(b) in addition to the conditions in section 146(1A) of the
+Companies Act 1967, the person to be named as a director
+or proposed director in a document or register mentioned in
+section 146(1)(a) or (b) of that Act must also —
+(i) by himself or herself; or
+(ii) through a registered qualified individual authorised
+by him or her,
+(b) file with the Registrar a statement in the prescribed form
+and made by both the VCC and the person as to the
+person’s compliance with the prescribed factors in
+section 53(3);
+(c) the following provision applies in place of section 146(3)
+of
+the
+Companies
+Act
+(which
+disapplies
+section 146(1) and (2) of that Act to certain entities and
+documents):
+“Subsections (1) and (2) (other than the provisions
+relating to the signing of a consent to act as director)
+do not apply to a constitution adopted by a VCC after
+the expiration of one year from the date on which the
+VCC was entitled to commence business.”.
+Appointment of directors

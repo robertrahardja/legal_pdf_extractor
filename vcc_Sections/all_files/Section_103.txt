@@ -1,0 +1,26 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 103: Section 202 of the Companies Act 1967 applies in relation to a
+============================================================
+
+Part: PART 8
+Type: simple
+Word Count: 90
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+VCC and its financial statements, consolidated financial statements
+and directors’ statement, as it applies in relation to a company and its
+financial statements, consolidated financial statements and directors’
+statement, subject to section 5 and the following modifications:
+(a) a reference in section 202 of the Companies Act 1967 to
+the Accounting Standards is to the Accounting Standards
+as defined in section 2(1);
+(b) a reference in section 202 of the Companies Act 1967 to
+that Act is to this Act.
+Defective financial statements, or consolidated financial
+statements and balance sheet

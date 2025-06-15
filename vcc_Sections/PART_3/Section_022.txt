@@ -1,0 +1,145 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 22: (1) A corporation cannot be a member of a VCC which is its
+============================================================
+
+Part: PART 3
+Type: dash
+Word Count: 1133
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+holding company, and any allotment or transfer of shares in a VCC to
+its subsidiary is void.
+(2) Subsection (1), insofar as it provides that any transfer of shares
+in contravention of it is void, does not apply to a disposition of
+book‑entry securities, but the Court, on being satisfied that a
+disposition of book‑entry securities would in the absence of this
+subsection be void may, on the application of the Registrar or any
+other
+person,
+order
+the
+transfer
+of
+the
+shares
+acquired
+in
+contravention of subsection (1).
+(3) Subsection (1) does not apply where the subsidiary is concerned
+as personal representative, or as trustee, unless the VCC or a
+subsidiary of the VCC is beneficially interested under the trust and is
+not so interested only by way of security for the purposes of a
+transaction entered into by it in the ordinary course of a business
+(including the lending of money).
+(4) This section does not prevent a subsidiary from continuing to be
+a member of a VCC that is its holding company if, at the time when it
+becomes a subsidiary of the VCC, it already holds shares in that VCC,
+but —
+(a) subject to subsection (3), the subsidiary has no right to vote
+at meetings of the VCC or any class of members of the
+VCC; and
+(b) subject to subsections (5) and (6), the subsidiary must,
+within the period of 12 months or such longer period as the
+Court may allow after becoming the subsidiary of the
+VCC, dispose of all of its shares in the VCC.
+(5) To avoid doubt, subsection (4)(b) ceases to apply if, during the
+period in that provision, the subsidiary ceases to be a subsidiary of the
+VCC.
+(6) Any shares in the VCC that are not disposed of in accordance
+with subsection (4)(b) may, subject to subsections (12) and (13) and
+sections 23 and 24, be held or continued to be held by the subsidiary.
+(7) Subject to subsection (3), subsections (1), (4), (6), (9) and (11)
+apply in relation to a nominee for a corporation which is a subsidiary,
+as if references in those subsections to such a corporation included
+references to a nominee for it.
+(8) This section does not prevent the allotment of shares in a
+holding company that is a VCC to a subsidiary which already
+lawfully holds shares in the VCC, if the allotment is made by way of
+capitalisation of reserves of the VCC and is made to all members of
+the VCC on a basis which is in direct proportion to the number of
+shares held by each member in the VCC.
+(9) This section does not prevent the transfer of shares in a holding
+company that is a VCC to a subsidiary by way of a distribution in
+specie, amalgamation or scheme of arrangement but —
+(a) subject to subsection (3), the subsidiary has no right to vote
+at meetings of the VCC or any class of members of the
+VCC; and
+(b) subject to subsections (10) and (11), the subsidiary must,
+within the period of 12 months or such longer period as the
+Court may allow after the transfer to the subsidiary of the
+shares in the VCC, dispose of all of the shares in the VCC.
+(10) To avoid doubt, subsection (9)(b) ceases to apply if, during the
+period mentioned in that subsection, the subsidiary ceases to be a
+subsidiary of the holding company.
+(11) Any shares in the VCC that are not disposed of in accordance
+with subsection (9)(b) may, subject to subsections (12) and (13) and
+sections 23 and 24, be held or continued to be held by the subsidiary.
+(12) The VCC must, within 14 days after any change in the number
+of shares in the VCC which are held by any of its subsidiaries under
+subsection (6) or (11), lodge with the Registrar a notice in the
+prescribed form of this change.
+(13) With respect to any share mentioned in subsection (6) or
+(11) —
+(a) where the VCC has shares of only one class — the total
+number of shares held by all its subsidiaries under
+subsection (6) or (11), must not at any time exceed 10%
+of the total number of shares of the VCC at that time;
+(b) where the share capital of the VCC is divided into shares of
+different classes — the total number of the shares of any
+class held by all its subsidiaries under subsection (6) or
+(11), must not at any time exceed 10% of the total number
+of the shares in that class of the VCC at that time;
+(c) where paragraph (a) or (b) is contravened — the VCC must
+procure the disposal of the excess shares by its subsidiary,
+in accordance with section 24 before the end of the period
+of 6 months beginning with the day on which that
+contravention occurs, or such further period as the
+Registrar may allow;
+(d) where the subsidiary is a wholly‑owned subsidiary of the
+VCC — no dividend may be paid, and no other distribution
+(whether in cash or otherwise) of the VCC’s assets
+(including any distribution of assets to members on a
+winding up of the VCC or any of its sub‑funds
+(if applicable)) may be made, to the subsidiary in respect
+of the shares mentioned in subsection (6) or (11); and
+(e) where the subsidiary is not a wholly-owned subsidiary of
+the VCC — a dividend may be paid and other distribution
+(whether in cash or otherwise) of the VCC’s assets
+(including any distribution of assets to members on a
+winding up of the VCC or any of its sub‑funds
+(if applicable)) may be made, to the subsidiary in respect
+of the shares mentioned in subsection (6) or (11).
+[28/2019]
+(14) In subsection (13)(c), “excess shares” means such number of
+the shares, held by any subsidiary under subsection (6) or (11) at the
+time
+in
+question,
+as
+resulted
+in
+the
+limit
+mentioned
+in
+subsection (13)(a) or (b) being exceeded.
+(15) Where, but for this section, a subsidiary would have been
+entitled to subscribe for shares in the VCC, the VCC may, on behalf
+of the subsidiary, sell the shares for which the subsidiary would
+otherwise have been entitled to subscribe.
+(16) For the purposes of this section, a VCC must inform the
+Registrar of the occurrence of any of the following events by lodging
+a notice in the prescribed form within 14 days after the date of
+occurrence:
+(a) where a shareholder of a VCC becomes a subsidiary of the
+VCC;
+(b) where shares of the VCC are held by a subsidiary of the
+VCC and there is a change in the number of shares held by
+the subsidiary.
+Rights attached to shares in section 22(6) and (11)

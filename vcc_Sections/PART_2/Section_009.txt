@@ -1,0 +1,75 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 9: (1) Subject to this Act, the Registrar must keep such registers
+============================================================
+
+Part: PART 2
+Type: dash
+Word Count: 546
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+as the Registrar considers necessary and in such form as the Registrar
+thinks fit.
+(2) Any person may, on payment of the prescribed fee —
+(a) inspect any document (other than a return or a copy of the
+constitution of a VCC) filed or lodged with the Registrar,
+including a microfilm of such document;
+(b) require a copy of the notice of incorporation of a VCC, any
+certificate issued under this Act, or any document or
+extract from any document kept by the Registrar (other
+than a return or a copy of the constitution of a VCC), to be
+given or certified by the Registrar; or
+(c) inspect any register of directors, managers, secretaries or
+auditors, or require a copy of or an extract from any such
+register.
+(3) Despite subsection (2)(b), a certificate of confirmation of
+incorporation of a VCC mentioned in section 16(7) may only be
+issued to the VCC upon an application made in accordance with that
+provision.
+(4) Despite subsection (2)(a) and (c), a director, manager, secretary,
+auditor or member of a VCC or a custodian of a non‑umbrella VCC or
+a sub‑fund may, without charge —
+(a) inspect the register of directors, managers, secretaries or
+auditors of that VCC; or
+(b) obtain from the Registrar a copy of or an extract from such
+a register.
+(5) A copy of or an extract from any document (including a copy
+produced by way of microfilm) filed or lodged with the Registrar
+using a non‑electronic medium that is certified to be a true copy or an
+extract by the Registrar is, in any proceedings, admissible in evidence
+as of equal validity with the original document.
+(6) In any legal proceedings, a certificate issued by the Registrar
+that a requirement of this Act specified in the certificate —
+(a) had or had not been complied with on a date or within a
+period specified in the certificate; or
+(b) had been complied with upon a date specified in the
+certificate but not before that date,
+is prima facie evidence of the matters specified in the certificate.
+(7) If the Registrar is of the opinion that any document submitted to
+the Registrar —
+(a) contains any matter contrary to any law;
+(b) by reason of any omission or misdescription, has not been
+duly completed;
+(c) does not comply with the requirements of this Act; or
+(d) contains any error, alteration or erasure,
+the Registrar may refuse to register or receive the document, and may
+request that the document be appropriately amended or completed
+and resubmitted, or that a fresh document be submitted in its place.
+(8) If the Registrar is of the opinion that it is no longer necessary or
+desirable to retain any document lodged, filed or registered with the
+Registrar and which has been microfilmed or converted to electronic
+form, the Registrar may —
+(a) destroy the document with the authorisation of the
+National Library Board under section 17 of the National
+Library Board Act 1995; or
+(b) transfer the document to the National Archives of
+Singapore under section 16 of that Act.
+(9) In subsection (5), “non‑electronic medium” means a medium
+other than the electronic transaction system established under Part 6A
+of the Accounting and Corporate Regulatory Authority Act 2004.
+Electronic transaction system

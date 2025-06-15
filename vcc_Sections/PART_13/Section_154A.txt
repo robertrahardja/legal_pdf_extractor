@@ -1,0 +1,37 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 154A: A meeting to which section 76A(2)(b) or (c) applies is not
+============================================================
+
+Part: PART 13
+Type: alphanumeric
+Word Count: 67
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+invalidated by reason of any technological disruption, malfunction or
+outage unless the Court is —
+(a) of
+the
+opinion
+that
+the
+technological
+disruption,
+malfunction
+or
+outage
+has
+caused
+or
+may
+cause
+substantial injustice that cannot be remedied by any
+order of the Court; and
+(b) by order declares the meeting to be invalid.
+[Act 17 of 2023 wef 01/07/2023]
+Inspection of books of VCC and related provisions

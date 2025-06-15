@@ -1,0 +1,160 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 56: (1) The Court may —
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 1199
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) on the application of the Minister or the Official Receiver
+as
+provided
+for
+in
+section
+149(9)
+of
+the
+Companies Act 1967 as applied by subsection (11); and
+(b) on being satisfied as to the matters in subsection (2),
+make an order (called in this section a disqualification order), which
+must not in any case exceed 5 years after the date of the
+disqualification order disqualifying a person specified in the order
+from being a director or in any way (whether directly or indirectly)
+being concerned in, or take part in, the management of a VCC during
+such period as is specified in the order.
+(2) The
+Court
+must
+make
+a
+disqualification
+order
+under
+subsection (1) if the Court is satisfied that —
+(a) the person is or has been a director of a VCC which has at
+any time gone into liquidation (either while he or she was a
+director or within 3 years of his or her ceasing to be a
+director) and was insolvent at that time;
+(b) the conduct of the person as director of that VCC (either
+taken alone or together with his or her conduct as a director
+of any other VCC or corporation) makes him or her unfit to
+be a director of or in any way (whether directly or
+indirectly) be concerned in, or to take part in, the
+management of a VCC; and
+(c) the person has been given at least 14 days’ notice of the
+application.
+(3) If —
+(a) in the case of a person who is or has been a director of a
+VCC which is being wound up by the Court, it appears to
+the Official Receiver or the liquidator (if the liquidator is
+not the Official Receiver); or
+(b) in the case of a person who is or has been a director of a
+VCC which is being wound up otherwise than as
+mentioned in paragraph (a), it appears to the liquidator,
+that the conditions mentioned in subsection (2)(a) and (b) are
+satisfied as respects that person, the Official Receiver or the
+liquidator (as the case may be) must immediately report the matter
+to the Minister.
+(4) The Minister may require the Official Receiver, the liquidator or
+the former liquidator of the VCC —
+(a) to provide the Minister with such information of any
+person’s conduct as a director of the VCC; and
+(b) to produce any books, papers and other records relevant to
+that person’s conduct as such a director,
+as the Minister may reasonably require for the purpose of determining
+whether to exercise, or of exercising, any of the Minister’s functions
+under this section.
+(5) If any person fails to comply with a requirement of the Minister
+under subsection (4), the Court may, on the application of the
+Minister, make an order requiring that person to comply with the
+requirement within the time specified in the order.
+(6) For the purposes of this section —
+(a) a VCC has gone into liquidation —
+(i) if it is wound up by the Court — on the date of the
+filing of the winding up application;
+(ii) if a provisional liquidator was appointed under
+section 291(1) of the Companies Act as applied by
+section 130 — at the time when the declaration made
+under that provision was lodged with the Registrar;
+and
+(iii) in any other case — on the date of the passing of the
+resolution for the voluntary winding up;
+(b) a VCC was insolvent at the time it has gone into liquidation
+if it was unable to pay its debts, within the meaning of
+section 254(2) of the Companies Act as applied by
+section 130; and
+(c) a reference to a person’s conduct as a director of any VCC
+or other corporation that has become insolvent includes
+that person’s conduct in relation to any matter connected
+with or arising out of the insolvency of that VCC or
+corporation.
+(7) In deciding whether subsection (2)(b) is satisfied, the Court —
+(a) must have regard generally to the matters mentioned in
+subsection (8); and
+(b) must have regard particularly to the matters mentioned in
+subsection (9),
+regardless of whether or not the director has been convicted or may be
+criminally liable in respect of any of these matters.
+(8) The matters to which the Court must have regard generally
+are —
+(a) whether there has been any misfeasance or breach of any
+fiduciary or other duty by the director in relation to the
+VCC;
+(b) whether there has been any misapplication or retention by
+the director of, or any conduct by the director giving rise to
+an obligation to account for, any money or other property
+of the VCC; and
+(c) the extent of the director’s responsibility for any failure by
+the VCC to comply with —
+(i) section 138, 191 or 199 of the Companies Act 1967
+as applied by section 42, 81(7) or 99, as the case may
+be;
+(ii) section 81(1) to (6) or 97; or
+(iii) section 100, and the provisions of section 201 of the
+Companies Act 1967 as applied by section 100.
+(9) The matters to which the Court must have regard particularly
+are —
+(a) the extent of the director’s responsibility for the causes of
+the VCC becoming insolvent;
+(b) the extent of the director’s responsibility for any failure by
+the VCC to supply any goods or services which have been
+paid for (in whole or in part);
+(c) the extent of the director’s responsibility for the VCC
+entering into any transaction liable to be set aside under
+section 259 of the Companies Act as applied by
+section 130; and
+(d) whether the causes of the VCC becoming insolvent are
+attributable to the VCC carrying on business in a particular
+industry where the risk of insolvency is generally
+recognised to be higher.
+(10) The Minister may, by notification in the Gazette, add to, vary
+or amend the matters mentioned in subsections (8) and (9) and that
+notification may contain such transitional provisions as may appear
+to the Minister to be necessary or expedient.
+(11) Subject to section 5 and subsection (12), section 149(9), (9A),
+(11) and (12) of the Companies Act 1967 applies in relation to an
+application for and the making of a disqualification order under
+subsection (1) and to a person disqualified by such order, as it applies
+in relation to the application for and the making of a disqualification
+order under section 149(1) of the Companies Act 1967 and to a
+person disqualified by such order.
+(12) For the purpose of subsection (11), references to a person
+acting as judicial manager and to acts done in such capacity are
+omitted.
+(13) Subject to section 5, section 149(13) and (14) of the
+Companies Act 1967 applies in relation to an application for
+permission of the Court to be concerned in or take part in the
+management of a VCC, as it applies in relation to an application for
+permission of the Court to be concerned in or take part in the
+management of a company.
+[Act 25 of 2021 wef 01/04/2022]
+Disqualification of director of VCC wound up on grounds of
+national security or interest

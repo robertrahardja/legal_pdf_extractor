@@ -1,0 +1,131 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 58: (1) A
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 842
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+person
+is
+subject
+to
+the
+disqualifications
+in
+subsection (3) if —
+(a) the person is convicted of any of the following:
+(i) any offence, whether in Singapore or elsewhere,
+involving fraud or dishonesty and punishable with
+imprisonment for a term of 3 months or more;
+(ii) any offence under Part 12 of the Securities and
+Futures Act 2001;
+(b) the person is subject to the imposition of a civil penalty
+under section 232 of the Securities and Futures Act 2001;
+(c) a direction under section 97(1A) of the Securities and
+Futures Act 2001 is made directing a holder of a capital
+markets services licence to remove the person from the
+person’s office or employment as a director or executive
+officer of the holder;
+(d) the person has been removed as a director, executive
+officer or chief executive officer of a person mentioned in
+section 99(1) of the Securities and Futures Act 2001, in
+compliance
+with
+a
+condition
+imposed
+on
+the
+second‑mentioned person under section 99(4) of that
+Act; or
+(e) a prohibition order is made against the person.
+[Act 18 of 2022 wef 31/07/2024]
+(2) Where a person is convicted in Singapore of —
+(a) any
+offence
+in
+connection
+with
+the
+formation
+or
+management of a VCC; or
+(b) any offence under section 157 or 339 of the Companies
+Act 1967 as applied by section 63 or 130, as the case may
+be,
+the court may make a disqualification order against the person in
+addition to any other sentence imposed.
+(3) Subject to any permission which the Court may give pursuant to
+an application under subsection (6), a person who —
+(a) is disqualified under subsection (1); or
+(b) has had a disqualification order made against him or her
+under subsection (2),
+must not act as a director, or take part (whether directly or indirectly)
+in the management of a VCC during the period of the disqualification
+or disqualification order.
+[Act 25 of 2021 wef 01/04/2022]
+(4) The disqualifications in subsection (3) —
+(a) in a case where the disqualified person has been convicted
+of any offence mentioned in subsection (1)(a) or (2)(a) or
+(b) but has not been sentenced to imprisonment — take
+effect upon conviction and continue for a period of 5 years
+or for such shorter period as the court may order under
+subsection (2);
+(b) in a case where the disqualified person has been convicted
+of any offence mentioned in subsection (1)(a) or (2)(a) or
+(b) and has been sentenced to imprisonment — take effect
+upon conviction and continue for a period of 5 years after
+his or her release from prison;
+(c) in a case where the disqualified person is subject to the
+imposition of a civil penalty under section 232 of the
+Securities and Futures Act 2001 — take effect upon the
+imposition of the civil penalty and continue for a period of
+5 years after the imposition of the civil penalty;
+(d) in a case where the disqualified person is the subject of a
+direction under section 97(1A) of the Securities and
+Futures Act 2001 — take effect upon the issue of the
+direction and continue for a period of 5 years after such
+issue;
+(e) in a case where the disqualified person has been removed
+as a director, executive officer or chief executive officer of
+a person mentioned in section 99(1) of the Securities and
+Futures Act 2001 pursuant to a condition imposed on the
+second‑mentioned person under section 99(4) of that
+Act — take effect upon the removal and continue for a
+period of 5 years after such removal; and
+(f) in a case where the disqualified person is the subject of a
+prohibition order — take effect upon the making of the
+prohibition order and continue for a period of 5 years after
+the expiry of the period specified in the order.
+[Act 18 of 2022 wef 31/07/2024]
+(5) A person who contravenes subsection (3) shall be guilty of an
+offence and shall be liable on conviction to a fine not exceeding
+$10,000 or to imprisonment for a term not exceeding 2 years or to
+both.
+(6) A person who —
+(a) is disqualified under subsection (1); or
+(b) has had a disqualification order made against him or her
+under subsection (2),
+may apply to the Court for permission to act as a director, or to take
+part (whether directly or indirectly) in the management of a VCC
+during the period of the disqualification or disqualification order,
+upon giving the Minister at least 14 days’ notice of his or her intention
+to apply for such permission.
+[Act 25 of 2021 wef 01/04/2022]
+(7) On the hearing of an application under subsection (6), the
+Minister may be represented at the hearing and may oppose the
+granting of the application.
+(8) Without affecting section 409 of the Companies Act 1967 as
+applied by section 144, a District Court may make a disqualification
+order under this section.
+Disqualification and debarment from being director or
+secretary in connection with default in filing documents under
+this Act

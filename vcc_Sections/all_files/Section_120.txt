@@ -1,0 +1,80 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 120: (1) Where it appears to the Minister that there is good reason
+============================================================
+
+Part: PART 9
+Type: dash
+Word Count: 604
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+to do so, the Minister may appoint one or more inspectors to
+investigate and report on the membership of any VCC (whether or not
+it is a declared VCC), and otherwise for the purpose of determining
+the true persons who are or have been —
+(a) financially interested in the success or failure (real or
+apparent) of the VCC; or
+(b) able to control or materially influence the policy of the
+VCC.
+(2) An application may be made to the Minister for an investigation
+with respect to particular shares in or debentures of any VCC
+(whether or not it is a declared VCC), for the purpose mentioned in
+subsection (1), by —
+(a) in a case other than one mentioned in paragraph (b) —
+(i) not less than 200 members (excluding a subsidiary of
+the VCC if the subsidiary is registered as a member);
+or
+(ii) members holding not less than 10% of the shares
+issued (excluding shares held by a subsidiary of the
+VCC under section 22(6) or (11), if any); or
+(b) in a case where the shares or other matter in question relate
+solely to a sub‑fund of a VCC —
+(i) not less than 200 members holding shares that are
+issued in respect of that sub‑fund; or
+(ii) members holding not less than 10% of the shares that
+are issued in respect of that sub‑fund (excluding
+shares held by a subsidiary of the VCC under
+section 22(6) or (11), if any).
+[28/2019]
+(3) On an application made under subsection (2), the Minister must
+appoint an inspector or inspectors to conduct an investigation, unless
+the Minister is satisfied that the application is vexatious.
+(4) An inspector appointed pursuant to an application made under
+subsection (2) may investigate any matter which the application seeks
+to have investigated, except insofar as the Minister is satisfied that it
+is unreasonable for that matter to be investigated.
+(5) Subject to section 5, section 243(2) and (4) of the Companies
+Act 1967 applies, with the necessary modifications in relation to an
+investigation under this section as it applies in relation to an
+investigation under that section.
+(6) The provisions of this Part applicable to an investigation into the
+affairs of a declared VCC apply to an investigation under this section,
+subject to the necessary modifications and the following further
+modifications:
+(a) a reference in this Part (including a provision of the
+Companies Act 1967 applied by this Part) to an officer or
+agent of a VCC or other corporation is to a person who is or
+has been, or whom the inspector has reasonable cause to
+believe to be or to have been —
+(i) financially interested in the success or failure or the
+apparent success or failure of the VCC or any other
+corporation the membership of which is investigated
+with that of the VCC; or
+(ii) able to control or materially influence the policy of
+that VCC or corporation,
+(a) and a person concerned only on behalf of others; and
+(b) the Minister is not bound to provide to the VCC or any
+other person a copy of any report by an inspector appointed
+under this section if the Minister is of the opinion that there
+is good reason for not divulging the contents of the report
+or any part of it, but may (if the Minister thinks fit) cause to
+be kept by the Registrar a copy of the report or (as the case
+may be) the parts of the report, as respects which the
+Minister is not of that opinion.
+Power to require information as to persons interested in shares
+or debentures

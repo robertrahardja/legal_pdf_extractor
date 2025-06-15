@@ -1,0 +1,17 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 17A: A VCC must have at least one member.
+============================================================
+
+Part: PART 3
+Type: alphanumeric
+Word Count: 5
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+[28/2019]
+Duty to refuse registration

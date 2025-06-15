@@ -1,0 +1,30 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 108: Sections 205AA to 205AF of the Companies Act 1967 apply
+============================================================
+
+Part: PART 8
+Type: simple
+Word Count: 141
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+in relation to an auditor of a VCC or a subsidiary company of a VCC
+as they apply in relation to an auditor of a company or a subsidiary
+company of a company, subject to section 5 and the following
+modifications:
+(a) a reference in those sections of the Companies Act 1967 to
+a public interest company is to a VCC that comprises at
+least one collective investment scheme authorised under
+section 286(1) of the Securities and Futures Act 2001, or
+such other VCC as may be prescribed;
+(b) a reference in those sections of the Companies Act 1967 to
+a non‑public interest company is to a VCC that is not a
+VCC mentioned in paragraph (a);
+(c) the reference in section 205AF(3) of the Companies
+Act 1967 to the Companies Act 1967 is to this Act.
+Other provisions concerning auditors

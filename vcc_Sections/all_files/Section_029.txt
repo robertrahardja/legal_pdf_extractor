@@ -1,0 +1,47 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 29: (1) Despite any written law or rule of law to the contrary —
+============================================================
+
+Part: PART 4
+Type: dash
+Word Count: 243
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) the assets of a sub‑fund of an umbrella VCC must not be
+used to discharge any liability of the VCC or any other
+sub‑fund of the VCC, including in the winding up of the
+VCC or the other sub‑fund; and
+(b) any liability of a sub‑fund of an umbrella VCC must be
+discharged solely out of the assets of that sub‑fund,
+including in the winding up of the sub‑fund.
+(2) Any provision of the constitution of an umbrella VCC, an
+agreement, a contract or otherwise, is void to the extent that it is
+inconsistent with subsection (1), and any application of or agreement
+to apply assets in contravention of subsection (1) is likewise void.
+(3) An umbrella VCC may allocate any assets or liabilities —
+(a) that it holds or incurs for the purpose of its sub‑funds or in
+order to enable the operation of the sub‑funds; and
+(b) that are not attributable to any particular sub‑fund,
+between its sub‑funds in a manner that it considers fair to
+shareholders.
+[28/2019]
+(4) Where
+an
+umbrella
+VCC
+without
+reasonable
+excuse
+contravenes subsection (1), the VCC and every officer of the VCC
+who is in default shall each be guilty of an offence and shall each be
+liable on conviction —
+(a) if the offence was committed with intent to defraud any
+person, to a fine not exceeding $150,000; or
+(b) in any other case, to a fine not exceeding $50,000.
+Disclosure of sub‑fund details

@@ -1,0 +1,382 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 2: (1) In this Act, unless the contrary intention appears —
+============================================================
+
+Part: PART 1
+Type: dash
+Word Count: 2841
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+“Accounting Standards”, in relation to a VCC, means —
+(a) the
+accounting
+standards
+mentioned
+in
+section 100(8)(a) or the accounting standards or
+practices prescribed under section 100(8)(b); or
+(b) where those accounting standards or practices (as the
+case may be) are substituted with other accounting
+standards under section 100(9) in relation to that
+VCC, the other accounting standards;
+“accounts” means profit and loss accounts and balance sheets
+and includes notes (other than auditors’ reports or directors’
+reports) attached or intended to be read with any of those
+profit and loss accounts or balance sheets;
+“ACRA” means the Accounting and Corporate Regulatory
+Authority established under section 3 of the Accounting and
+Corporate Regulatory Authority Act 2004;
+“book-entry securities” has the meaning given by section 81SF
+of the Securities and Futures Act 2001;
+“books” has the meaning given by section 4(1) of the
+Companies Act 1967;
+“borrowing VCC” means a VCC that is or will be under a
+liability (whether or not such liability is present or future) to
+repay any money received or to be received by it in response
+to an invitation to the public to subscribe for or purchase
+debentures of the VCC;
+“business day” means any day other than a Saturday, Sunday or
+public holiday;
+“certified” —
+(a) in relation to a copy of a document, means certified in
+the prescribed manner to be a true copy of the
+document; and
+(b) in relation to a translation of a document, means
+certified in the prescribed manner to be a correct
+translation
+of
+the
+document
+into
+the
+English
+language;
+“charge” includes a mortgage and any agreement to give or
+execute a charge or mortgage whether upon demand or
+otherwise;
+“collective investment scheme” has the meaning given by
+section 2(1) of the Securities and Futures Act 2001;
+“company” has the meaning given by section 4(1) of the
+Companies Act 1967;
+“consolidated financial statements” has the meaning given by
+the Accounting Standards;
+“constitution”, in relation to a VCC, means the constitution of
+the VCC that is registered with the Registrar under
+section 16(4), as may be amended from time to time;
+“contributory” —
+(a) in relation to a VCC, means a person liable to
+contribute to the assets of the VCC in the event of its
+being wound up, and includes the holder of fully paid
+shares in the VCC and (before the final determination
+of the persons who are contributories) any person
+alleged to be a contributory of the VCC; and
+(b) in relation to a sub‑fund, means a person liable to
+contribute to the assets of the sub‑fund in the event of
+its being wound up, and includes the holder of fully
+paid shares in the VCC that are issued in respect of
+that sub‑fund and (before the final determination of
+the persons who are contributories) any person
+alleged to be a contributory of the sub‑fund;
+“corporation” has the meaning given by section 4(1) of the
+Companies Act 1967 and (to avoid doubt) includes a VCC;
+“Court” means the General Division of the High Court;
+“creditors’ voluntary winding up” means a winding up under
+Division 3 of Part 10 of the Companies Act 1967 as applied
+by section 130, but not a members’ voluntary winding up;
+“custodian” —
+(a) in relation to a non-umbrella VCC, means an entity to
+which the assets of the VCC are entrusted for
+safekeeping; and
+(b) in relation to a sub‑fund, means an entity to which the
+assets of the sub‑fund are entrusted for safekeeping;
+“debenture” includes debenture stock, bonds, notes and any
+other securities of a VCC whether constituting a charge on
+the assets of the VCC or not, but does not include —
+(a) a cheque, letter of credit, order for the payment of
+money or bill of exchange;
+(b) subject to the regulations made under section 165, a
+promissory note having a face value of not less than
+$100,000 and having a maturity period of not more
+than 12 months; and
+(c) for the purposes of a prescribed provision of this Act,
+such instrument or class of instruments as may be
+prescribed;
+“default penalty” means a default penalty within the meaning of
+section 147;
+“director” has the meaning given by section 4(1) of the
+Companies Act 1967;
+“document” includes any summons, order and other legal
+process, and any notice and register;
+“electronic
+communication”
+has
+the
+meaning
+given
+by
+section 4(1) of the Companies Act 1967;
+“emoluments”, in relation to any director or auditor of a VCC,
+includes any fees, percentages and other payments made
+(including the money value of any allowances or perquisites)
+or consideration given, directly or indirectly, to the director or
+auditor by that VCC or by a holding company or a subsidiary
+of that VCC, whether made or given to him or her in his or her
+capacity as a director or an auditor or otherwise in connection
+with the affairs of that VCC or of the holding company or the
+subsidiary;
+“expert” includes an engineer, a valuer, an accountant and any
+other person whose profession or reputation gives authority
+to a statement made by him or her;
+“financial statements”, in relation to a VCC, means the financial
+statements of the VCC required to be prepared in accordance
+with the Accounting Standards;
+“financial year”, in relation to a VCC, means —
+(a) the period in respect of which its financial statements
+are made up, whether that period is a year or not; and
+(b) which is determined in accordance with section 98;
+“FSMA 2022” means the Financial Services and Markets Act
+2022;
+[Act 18 of 2022 wef 28/04/2023]
+“fund administration service” includes valuation, accounting,
+settlement of expenses and acting as a transfer agent;
+“holding company” has the meaning given by section 5 of the
+Companies Act 1967;
+“liquidator” includes the Official Receiver when acting as the
+liquidator of a VCC or a sub‑fund;
+“manager”, in relation to a VCC, means the manager appointed
+by the VCC to manage its property or to operate the collective
+investment scheme or schemes that comprise the VCC;
+“marketable securities” has the meaning given by section 4(1) of
+the Companies Act 1967;
+“MAS” means the Monetary Authority of Singapore established
+under section 3 of the MAS Act;
+“MAS Act” means the Monetary Authority of Singapore
+Act 1970;
+“members’ voluntary winding up” means a winding up under
+Division 3 of Part 10 of the Companies Act 1967 as applied
+by section 130, where a declaration has been made and
+lodged pursuant to section 293 of that Act as applied by
+section 130;
+“net asset value”, in relation to a VCC, means the total assets
+less the total liabilities of the VCC, as determined in
+accordance with the Accounting Standards;
+“non-umbrella VCC” means a VCC that is not an umbrella
+VCC;
+“officer”, in relation to a VCC or other corporation, includes —
+(a) any director or secretary of the corporation or a
+person employed in an executive capacity by the
+corporation;
+(b) a receiver and manager of any part of the undertaking
+of the corporation appointed under a power contained
+in any instrument; and
+(c) any liquidator of the corporation (being a VCC or
+company) appointed in a voluntary winding up,
+but does not include —
+(d) any receiver who is not also a manager;
+(e) any receiver and manager appointed by the Court;
+(f) any liquidator appointed by the Court or by the
+creditors; or
+(g) a judicial manager appointed by the Court under
+Part 8A of the Companies Act 1967 (if applicable);
+“Official Receiver” means the Official Assignee appointed
+under the Bankruptcy Act (Cap. 20, 2009 Revised Edition),
+and includes the deputy of any such Official Assignee and
+any person appointed as Assistant Official Assignee;
+“profit and loss account” includes income and expenditure
+account, revenue account or any other account showing the
+results of the business of a corporation for a period;
+“prohibition order” means —
+(a) a prohibition order made under section 101A(1) of
+the Securities and Futures Act 2001 as in force
+immediately before the date of commencement of
+section 209(1)(a), (c) and (d), (4) to (14), (17) and
+(18) of the FSMA 2022;
+(b) a prohibition order made under section 101A(1) of
+the Securities and Futures Act 2001 as in force
+immediately before the date of commencement of
+section 209(1)(a), (c) and (d), (4) to (14), (17) and
+(18) of the FSMA 2022, and as continued by
+section 220(3) of the FSMA 2022; or
+(c) a prohibition order made under section 7(1) of the
+FSMA 2022;
+[Act 18 of 2022 wef 31/07/2024]
+“prospectus” means any prospectus, notice, circular, material,
+advertisement, publication or other document used to make
+an offer of shares in a VCC or proposed VCC, but does not
+include —
+(a) a profile statement mentioned in section 296(2) of the
+Securities and Futures Act 2001;
+(b) any material, advertisement or publication which is
+authorised by section 300 of that Act (other than
+subsection (3)); or
+(c) a
+product
+highlights
+sheet
+mentioned
+in
+section 296A(1) of that Act;
+“public accountant” means a person who is registered or treated
+as registered under the Accountants Act 2004 as a public
+accountant;
+“qualified representative”, in relation to the manager of a VCC,
+means a representative (within the meaning of section 2(1) of
+the Securities and Futures Act 2001) of the manager who
+is —
+(a) a person described in section 99B(1)(a), (b), (c) or (d)
+of the Securities and Futures Act 2001; or
+(b) a person who is exempt from section 99B(1) of that
+Act under section 99B(2) of that Act;
+“register of auditors” means a register of auditors kept by the
+Registrar under section 173 of the Companies Act 1967 as
+applied by section 71(1);
+“register of directors” means a register of directors kept by the
+Registrar under section 173 of the Companies Act 1967 as
+applied by section 71(1);
+“register of managers” means a register of managers kept by the
+Registrar under section 71(3);
+“register of members” means a register of members kept by a
+VCC under section 81;
+“register of secretaries” means a register of secretaries kept by
+the Registrar under section 173 of the Companies Act 1967 as
+applied by section 71(1);
+“registered qualified individual” means a qualified individual
+registered under section 32 of the Accounting and Corporate
+Regulatory Authority Act 2004;
+“Registrar” means the Registrar of VCCs appointed under this
+Act, and includes any Deputy or Assistant Registrar of
+VCCs;
+“registration number”, in relation to a sub‑fund, means the
+registration number given by the Registrar to the sub‑fund
+upon its registration under section 27;
+“related corporation”, in relation to a corporation, means a
+corporation that is treated as related to the firstmentioned
+corporation under section 4;
+“share”, in relation to a VCC, means a unit in a collective
+investment scheme that is part of the VCC, and includes a
+share taken by a subscriber to the constitution of a VCC,
+whether or not it is such unit;
+“solicitor” means an advocate and solicitor of the Supreme
+Court;
+“sub‑fund” means a collective investment scheme that is part of
+an umbrella VCC;
+“subsidiary” has the meaning given by section 5 of the
+Companies Act 1967;
+“umbrella VCC” means a VCC the constitution of which
+provides that it consists of, or is to consist of, 2 or more
+collective investment schemes, or words to that effect;
+“unit”, in relation to a collective investment scheme, has the
+meaning given by section 2(1) of the Securities and
+Futures Act 2001;
+“VCC” or “variable capital company” means a body corporate
+incorporated as such under this Act;
+“virtual meeting technology” means any technology that allows
+a person to participate in a meeting without being physically
+present at the place of meeting;
+[Act 17 of 2023 wef 01/07/2023]
+“wholly owned subsidiary” has the meaning given by section 5B
+of the Companies Act 1967.
+[28/2019; 40/2019]
+(2) In this Act (including a provision of the Companies Act applied
+by this Act) —
+(a) a reference to the directors of a VCC is, in the case of a
+VCC that has only one director, to that director; and
+(b) a reference to the doing of any act by 2 or more directors is,
+in the case of a VCC that has only one director, to the doing
+of that act by that director.
+(3) In this Act —
+(a) a reference to a debt, obligation or liability of a sub‑fund is
+to a debt, obligation or liability that is incurred by the
+umbrella VCC concerned for the purpose of or that is
+attributable to that sub‑fund;
+(b) a reference to a debenture of a sub‑fund is to a debenture
+issued by the umbrella VCC concerned in respect of a debt,
+obligation or liability of the sub‑fund;
+(c) a reference to any asset, property or undertaking of a
+sub‑fund is to any asset, property or undertaking that is
+held by the umbrella VCC concerned for the purpose of or
+that is attributable to that sub‑fund; and
+(d) a reference to a creditor of a sub‑fund is to a creditor of the
+umbrella VCC concerned in respect of a debt, obligation or
+liability of the sub‑fund.
+[28/2019]
+(3A) A reference in this Act to a provision of the Companies
+Act 1967 that is repealed by the Insolvency, Restructuring and
+immediately before it is repealed.
+(4) Subject to section 5, section 4(2), (5), (5A) and (7) of the
+Companies Act 1967 applies for the purposes of interpreting this Act,
+including a provision of the Companies Act applied by this Act.
+(5) A reference to the Minister in any of the following provisions
+includes the Minister of State for the Ministry of the Minister, who is
+authorised by the Minister for the purposes of hearing an appeal under
+that provision:
+(a) sections 18(3), 21(4), 135(9) and 136(3);
+(b) sections 27(5), (5AA), (5A) and (12C), and 28(3), (3D),
+(3DA) and (3E) of the Companies Act 1967 as applied by
+section 21;
+(c) section 155B(8) of the Companies Act 1967 as applied by
+section 59.
+(6) Subject to section 5 and the modifications in subsection (7),
+section
+(except
+subsections
+(1)
+and
+(6A))
+of
+the
+Companies Act 1967 applies for the purposes of —
+(a) section 66;
+(b) section 163 of the Companies Act 1967 as applied by
+section 65; and
+(c) section 165 of the Companies Act 1967 as applied by
+section 67.
+(7) The modifications mentioned in subsection (6) are as follows:
+(a) section 7(3) of the Companies Act 1967 only applies in
+relation to a share of a corporation other than a VCC;
+(b) section 7(9)(ca) of the Companies Act 1967 is omitted;
+(c) a book-entry security is treated as an interest in a share;
+(d) a person that is a subsidiary of a VCC does not have an
+interest in the shares of the VCC by reason only that that
+interest is purchased or otherwise acquired by the
+subsidiary under section 22(6) or (11).
+(8) For the purposes of any provision of this Act (including a
+provision of the Companies Act applied by this Act) that provides that
+an officer of a corporation who is in default is guilty of an offence or
+is liable to a penalty or punishment, an officer of the corporation is in
+default if the officer knowingly and wilfully —
+(a) commits the offence; or
+(b) authorises or permits the commission of the offence.
+(9) Where it is necessary, in a proceeding for an offence under this
+Act, to establish the conduct of the manager of a VCC or the
+custodian of a non‑umbrella VCC or sub‑fund, any conduct engaged
+in or on behalf of the manager or custodian —
+(a) by a director, an employee or an agent of the manager or
+custodian within the scope of his or her actual or apparent
+authority; or
+(b) by any other person at the direction or with the consent or
+agreement (whether express or implied) of a director, an
+employee or an agent of the manager or custodian, where
+the giving of the direction, consent or agreement is within
+the scope of the actual or apparent authority of the director,
+employee or agent,
+is treated as having been engaged in by the manager or custodian.
+(10) Where it is necessary, in a proceeding for an offence under this
+Act, to establish the state of mind of a manager of a VCC, or a
+custodian of a non‑umbrella VCC or sub‑fund, in respect of conduct
+engaged in, or treated under subsection (9) as having been engaged in,
+by the manager or custodian, it is sufficient to show that a director, an
+employee or an agent of the manager or custodian, being one by
+whom the conduct was engaged in within the scope of his or her
+actual or apparent authority, had that state of mind.
+(11) A reference in subsection (10) to the state of mind of a person
+includes the knowledge, intention, opinion, belief or purpose of the
+person and the person’s reasons for his or her intention, opinion,
+belief or purpose.
+Affairs of corporation or sub‑fund

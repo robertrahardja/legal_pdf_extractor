@@ -1,0 +1,57 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 110: (1) This section applies for the interpretation of the
+============================================================
+
+Part: PART 9
+Type: dash
+Word Count: 337
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+provisions of this Part, including provisions of the Companies
+Act 1967 applied by this Part.
+(2) A reference to a declared VCC is to a VCC declared by an order
+under section 111 as a VCC to which this Part applies.
+(3) A reference to an officer or agent of a corporation that is not a
+VCC includes —
+(a) a director, a banker, a solicitor or an auditor of the
+corporation;
+(b) a person who at any time —
+(i) has been a person mentioned in paragraph (a); or
+(ii) has been otherwise employed or appointed by the
+corporation;
+(c) a person who —
+(i) has in the person’s possession any property of the
+corporation;
+(ii) is a creditor of the corporation; or
+(iii) is capable of giving information concerning the
+promotion, formation, trading, dealings, affairs or
+property of the corporation; and
+(d) where there are reasonable grounds for suspecting or
+believing that a person is a person mentioned in
+paragraph (c) — that person.
+(4) Except as otherwise provided in section 116(c), a reference to an
+officer or agent of a corporation that is a VCC includes —
+(a) a director, a banker, a solicitor or an auditor of the VCC or
+a person who has been such a person at any time;
+(b) the manager of the VCC, the custodian of the VCC (being a
+non‑umbrella VCC) or the custodian of a sub‑fund of the
+VCC, or a person who has been such a person at any time;
+(c) a person who has been otherwise employed or appointed at
+any time by the VCC;
+(d) a person who —
+(i) has in the person’s possession any property of the
+VCC;
+(ii) is a creditor of the VCC; or
+(iii) is capable of giving information concerning the
+promotion, formation, trading, dealings, affairs or
+property of the VCC; and
+(e) where there are reasonable grounds for suspecting or
+believing that a person is a person mentioned in
+paragraph (d) — that person.
+Power to declare VCC

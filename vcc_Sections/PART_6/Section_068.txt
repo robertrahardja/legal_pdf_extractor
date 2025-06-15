@@ -1,0 +1,28 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 68: Sections 168 and 169 of the Companies Act 1967 apply in
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 107
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+relation to a VCC as they apply in relation to a company, subject to
+section 5 and the following modifications:
+(a) a reference in section 168(1B)(a) and (7) of the Companies
+Act 1967 to a corporation which is by virtue of section 6 of
+that Act deemed to be related to the company is to a related
+corporation of the VCC;
+(b) section 168(5)(a) of the Companies Act 1967 is omitted;
+(c) the reference in section 168(2) of the Companies Act 1967
+to any requirement of the Take‑over Code mentioned in
+section 139 of the Securities and Futures Act 2001 is
+omitted.
+Subdivision (4) — Secretaries
+Secretary

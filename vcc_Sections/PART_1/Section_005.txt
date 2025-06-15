@@ -1,0 +1,47 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 5: (1) The purpose of this Act is to enable a body corporate known
+============================================================
+
+Part: PART 1
+Type: dash
+Word Count: 265
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+as a variable capital company or VCC, to be formed, and to provide
+for its operation and regulation.
+(2) This Act (except for Part 7) applies the provisions of the
+Companies Act subject to the modifications set out by this Act.
+(3) Where a provision of the Companies Act 1967 (called in this
+section an incorporated provision) is incorporated by reference in this
+Act, whether with or without modifications, then, in addition to any
+specific modifications set out in this Act —
+(a) the incorporated provision applies with the necessary
+modifications;
+(b) a reference in the incorporated provision to another
+incorporated provision is to that other provision as
+applied by this Act;
+(c) a reference in the incorporated provision to the Registrar of
+Companies is to the Registrar;
+(d) subject to section 2(5), a reference in the incorporated
+provision to the Minister is to the Minister having charge
+of this Act;
+(e) a reference in the incorporated provision to the Authority is
+to ACRA;
+(f) a reference in the incorporated provision to a default
+penalty is to the default penalty in section 147;
+(g) a reference in the incorporated provision to a prescribed
+matter is to the matter prescribed by regulations made
+under section 165; and
+(h) the incorporated provision applies subject to such other
+modifications as may be prescribed by regulations made
+under subsection (4).
+(4) The Minister may, for a period of 2 years starting on 14 January
+2020, make regulations to prescribe further modifications to an
+incorporated provision in its application by this Act.
+Application of Companies Act 1967 to VCC, etc.

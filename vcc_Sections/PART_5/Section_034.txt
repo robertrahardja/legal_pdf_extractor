@@ -1,0 +1,43 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 34: (1) The shares or other interest of any member in a VCC are
+============================================================
+
+Part: PART 5
+Type: dash
+Word Count: 268
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+movable property and transferable in the manner provided by the
+constitution of the VCC and is not of the nature of immovable
+property.
+(2) A shareholder has no interest in the property of a VCC.
+(3) Subject to its constitution, a VCC may issue more than one class
+of shares.
+(4) The rights which attach to each share of any given class are —
+(a) the right, in accordance with the constitution of the VCC,
+to participate in or receive profits, income or other
+payments or returns arising from —
+(i) the acquisition, holding, management or disposal of
+the property or part of the property of the VCC; or
+(ii) the exercise, redemption or expiry of any right,
+interest, title or benefit in the property or part of the
+property of the VCC, or to receive sums paid out of
+such profits, income or other payments or returns;
+(b) the right (if any), in accordance with the constitution of the
+VCC, to vote at any general meeting of the VCC or at any
+meeting of shareholders of that class of shares; and
+(c) such other rights as may be provided in the constitution in
+relation to shares of that class.
+(5) A VCC may make provision in its constitution to authorise the
+conversion of one class of shares into another class of shares.
+(6) Section 74 of the Companies Act 1967 (as applied by
+section 36) applies where a conversion of shares undertaken by a
+VCC involves a variation or an abrogation of the rights attached to
+any class of shares.
+Power to repurchase or redeem own shares

@@ -1,0 +1,38 @@
+{
+  "part_name": "PART 1",
+  "title": "PRELIMINARY",
+  "section_count": 5,
+  "total_words": 4500,
+  "sections": [
+    {
+      "number": "2",
+      "title": "(1) In this Act, unless the contrary intention appears \u2014",
+      "word_count": 2841,
+      "type": "dash"
+    },
+    {
+      "number": "3",
+      "title": "(1) Unless the context otherwise requires, a reference to the",
+      "word_count": 1097,
+      "type": "dash"
+    },
+    {
+      "number": "4",
+      "title": "For the purposes of this Act, where a corporation \u2014",
+      "word_count": 54,
+      "type": "simple"
+    },
+    {
+      "number": "5",
+      "title": "(1) The purpose of this Act is to enable a body corporate known",
+      "word_count": 265,
+      "type": "dash"
+    },
+    {
+      "number": "6",
+      "title": "(1) Where a provision of the Companies Act 1967 is",
+      "word_count": 243,
+      "type": "dash"
+    }
+  ]
+}

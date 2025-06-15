@@ -1,0 +1,44 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 36: (1) Sections 65, 66(1), 72, 73, 73A and 74
+============================================================
+
+Part: PART 5
+Type: dash
+Word Count: 282
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(except
+subsection (6)) of the Companies Act 1967 apply in relation to a
+VCC as they apply in relation to a company, a company having a
+share capital or a limited company (as the case may be), subject to
+subsections (2) and (3) and section 5.
+(2) The following provision applies in place of section 65(2) of the
+Companies Act 1967 (which enables a company to reserve part of its
+uncalled share capital for calling up in the event of a winding up):
+“A VCC may, by special resolution of its members, or by
+resolution of one or more members holding shares that
+represent —
+(a) at least 75%; or
+(b) if the constitution of the VCC requires a greater
+majority for that resolution, that greater majority,
+of the total voting rights of all the members holding shares that
+are issued in respect of a particular sub‑fund, determine that any
+portion of its share capital which has not already been called up
+is not capable of being called up except in the event and for the
+purposes of the VCC or the sub‑fund (as the case may be) being
+wound up, and in that event that portion of its share capital is not
+capable of being called up except in such event and for such
+purposes; but such resolution does not affect the rights of any
+person acquired before the passing of the resolution.”.
+(3) The reference to treasury shares in section 74(1A) of the
+Companies Act 1967 is to shares held by a subsidiary of the VCC
+under section 22(6) or (11), if any.
+Division 2 — Debentures
+Application of provisions of Division 5 of Part 4 of Companies
+Act 1967

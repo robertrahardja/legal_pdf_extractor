@@ -1,0 +1,41 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 91: (1) Sections 26 and 27 of the FSMA 2022 apply for the
+============================================================
+
+Part: PART 7
+Type: dash
+Word Count: 232
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+purpose of an inspection in Singapore by an AML/CFT authority of a
+VCC over which it exercises consolidated supervision authority, as
+they apply for the purpose of an inspection in Singapore by an
+AML/CFTauthority (as defined in section 17 of the FSMA 2022) of a
+financial institution over which it exercises consolidated supervision
+authority, subject to the necessary modifications and the following
+further modifications:
+(a) section 26(5) of the FSMA 2022 is omitted;
+[Act 18 of 2022 wef 28/04/2023]
+(b) the reference in section 27(3) of the FSMA 2022 to any
+prescribed written law or any requirement imposed under
+any such written law, is omitted;
+[Act 18 of 2022 wef 28/04/2023]
+(c) a reference in sections 26 and 27 of the FSMA 2022 to a
+financial institution is to the VCC.
+[Act 18 of 2022 wef 28/04/2023]
+(2) Section 28 of the FSMA 2022 applies in relation to a report
+produced in respect of an inspection carried out pursuant to section 26
+of the FSMA 2022 as applied by subsection (1), as it applies in
+relation to a report produced in respect of an inspection carried out
+pursuant to section 26 of the FSMA 2022, subject to the necessary
+modifications and with each reference to a financial institution
+replaced with a reference to the VCC concerned.
+[Act 18 of 2022 wef 28/04/2023]
+Division 3 — Miscellaneous provisions
+Corporate offenders and unincorporated associations

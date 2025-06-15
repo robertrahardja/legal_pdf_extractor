@@ -1,0 +1,81 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 128: (1) This section applies in place of section 227 of the
+============================================================
+
+Part: PART 10
+Type: dash
+Word Count: 681
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Companies Act.
+(2) If a receiver or manager of the property of a VCC that is a
+non‑umbrella VCC fails to make good any default by him or her in
+making or lodging any return, account or other document or in giving
+any notice required by law, within 14 days after the service on him or
+her of a notice requiring him or her to do so by —
+(a) a member of the VCC;
+(b) a creditor of the VCC; or
+(c) a trustee for holders of debentures of the VCC,
+the Court may, on an application by the person who gave the notice,
+make an order directing the receiver or manager to make good the
+default within the time specified in the order.
+(3) If a receiver or manager of the property of an umbrella VCC
+fails to make good any default by him or her in making or lodging any
+return, account or other document or in giving any notice required by
+law, within 14 days after the service on him or her of a notice
+requiring him or her to do so by —
+(a) a creditor of the umbrella VCC; or
+(b) a trustee for holders of debentures of the umbrella VCC,
+the Court may, on an application by the person who gave the notice,
+make an order directing the receiver or manager to make good the
+default within the time specified in the order.
+(4) If a receiver or manager of the property of a particular sub‑fund
+of an umbrella VCC fails to make good any default by him or her in
+making or lodging any return, account or other document or in giving
+any notice required by law, within 14 days after the service on him or
+her of a notice requiring him or her to do so by —
+(a) a member of the umbrella VCC holding shares issued in
+respect of the sub‑fund;
+(b) a creditor of the sub‑fund; or
+(c) a trustee for holders of debentures of the sub‑fund,
+the Court may, on an application by the person who gave the notice,
+make an order directing the receiver or manager to make good the
+default within the time specified in the order.
+(5) If it appears that a receiver or manager of the property of a
+VCC —
+(a) has misapplied, retained or become liable or accountable
+for any money or property of the VCC; or
+(b) has been guilty of any misfeasance or breach of trust or
+duty in relation to the VCC,
+the Court may, on an application by a creditor or contributory or the
+liquidator of the VCC, examine the conduct of the receiver or
+manager and compel him or her to —
+(c) repay or restore the money or property or part of it with
+interest at such rate as the Court thinks just; or
+(d) contribute such sum to the assets of the VCC by way of
+compensation in respect of the misapplication, retainer,
+misfeasance or breach of trust or duty, as the Court thinks
+just.
+(6) If it appears that a receiver or manager of the property of a
+particular sub‑fund of an umbrella VCC —
+(a) has misapplied, retained or become liable or accountable
+for any money or property of the sub‑fund; or
+(b) has been guilty of any misfeasance or breach of trust or
+duty in relation to the property of the sub‑fund,
+the Court may, on an application by a creditor or contributory or the
+liquidator of the sub‑fund, examine the conduct of the receiver or
+manager and compel him or her to —
+(c) repay or restore the money or property or part of it with
+interest at such rate as the Court thinks just; or
+(d) contribute such sum to the assets of the sub‑fund by way of
+compensation in respect of the misapplication, retainer,
+misfeasance or breach of trust or duty, as the Court thinks
+just.
+(7) This section has effect whether or not the act in question is one
+for which the receiver or manager is criminally liable.

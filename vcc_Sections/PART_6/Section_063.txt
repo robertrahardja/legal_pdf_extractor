@@ -1,0 +1,28 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 63: (1) Section 157(1), (2), (3) and (5) of the Companies Act 1967
+============================================================
+
+Part: PART 6
+Type: dash
+Word Count: 150
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+applies in relation to a director, officer or agent of a VCC as it applies
+in relation to a director, officer or agent of a company, subject to
+section 5 and subsections (2) and (3).
+(2) For the purpose of subsection (1), a reference in section 157(2),
+(3) and (5) of the Companies Act 1967 to an agent of the company is
+to an agent of the VCC, the manager of the VCC, the custodian of the
+VCC (being a non‑umbrella VCC), or any person who at any time has
+been such agent, manager or custodian.
+(3) In addition to the duties imposed on a director or officer of a
+VCC under subsection (1), a director or officer of a VCC also owes
+the same duties to the VCC as those owed by a director or officer of a
+company to the company under the common law.
+Powers of directors

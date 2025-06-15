@@ -1,0 +1,24 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 64: Sections 157A, 157B, 157C, 158 and 159 of the Companies
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 84
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Act 1967 apply in relation to a VCC and a director of a VCC as they
+apply in relation to a company and a director of a company, subject to
+section 5 and the following modifications:
+(a) the reference in section 157C(1)(b) of the Companies
+Act 1967 to a professional adviser or an expert includes the
+manager of the VCC;
+(b) section 159(b) of the Companies Act 1967 is omitted.
+Loans and quasi-loans to directors, credit transactions and
+related arrangements, etc., and related provisions

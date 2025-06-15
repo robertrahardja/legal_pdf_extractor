@@ -1,0 +1,66 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 40: (1) Subject
+============================================================
+
+Part: PART 5
+Type: dash
+Word Count: 456
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+to
+section
+and
+subsections
+(2)
+to
+(6),
+sections 130AA, 130AB, 130AC and 130AD of the Companies
+Act 1967 apply in relation to a VCC and a transfer of any share,
+debenture or other interest in it, as they apply in relation to a company
+or public company (as the case may be) and a transfer of any share,
+debenture or other interest in it.
+(2) The following provision applies in place of section 130AD(3)
+and (4) of the Companies Act 1967 (which provides that a company
+and its officers are not liable as respects a transfer of its interests if a
+specified act in relation to the instrument of transfer is not done
+within the time limit of its certification of the instrument):
+“Where any certification by a VCC of an instrument of transfer
+of shares, debentures or other interests in the VCC is expressed
+to be limited to 42 days or any longer period from the date of
+certification, the VCC and its officers are not (in the absence of
+fraud) liable in respect of the registration of any transfer
+comprised in the certification after the expiry of the period so
+limited or any extension of the period given by the VCC, if the
+instrument has not within that period been lodged with the VCC
+for registration.”.
+(3) Despite anything in its constitution, a VCC must not register a
+transfer of shares or debentures unless a proper instrument of transfer
+has been delivered to the VCC.
+(4) Subsection (3) does not affect any power of the VCC to register
+as shareholder or debenture holder any person to whom the right to
+any shares or debentures of the VCC has been transmitted by
+operation of law.
+(5) A VCC may refuse to register a transfer of shares under
+section 130AA of the Companies Act 1967 (as applied by
+subsection (1)) if —
+(a) there exists a minimum requirement under the VCC’s
+constitution or the prospectus in respect of the issue of
+those shares, as to the number or value of shares that are to
+be held by any shareholder of the VCC, and the transfer
+would result in either the transferor or transferee holding
+less than the required minimum; or
+(b) the transfer is inconsistent with any provision of the VCC’s
+constitution.
+(6) Nothing in this Act requires a VCC to register a transfer or give
+notice to any person of a refusal to register a transfer where
+registering the transfer or giving the notice would result in a
+contravention of any law (including any law that is for the time being
+in force in a country or territory other than Singapore).
+Application of other provisions of Division 7 of Part 4 of
+Companies Act 1967

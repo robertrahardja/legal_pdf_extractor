@@ -1,0 +1,41 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 97: (1) Every VCC must lodge a return with the Registrar after its
+============================================================
+
+Part: PART 8
+Type: dash
+Word Count: 234
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+annual general meeting and within 7 months after the end of its
+financial year.
+(2) The Registrar may, if the Registrar thinks there are special
+reasons to do so, extend any period within which a VCC must lodge a
+return under subsection (1) —
+(a) upon an application by the VCC; or
+(b) in respect of any prescribed class of VCCs.
+(3) The return in subsection (1) —
+(a) must be in such form;
+(b) must contain such particulars and information; and
+(c) must be accompanied by such documents,
+as may be prescribed.
+(4) The particulars to be contained in, and the documents that are to
+accompany, the return in subsection (1) may differ according to the
+class or description of VCC prescribed.
+(5) If a VCC is required under section 78(4) to hold an annual
+general meeting for a financial year after it has lodged its annual
+return for that financial year, the VCC must lodge a notice of the date
+on which the annual general meeting was held with the Registrar
+within 14 days after that date.
+(6) If a VCC fails to comply with this section, the VCC and every
+officer of the VCC who is in default shall each be guilty of an offence
+and shall each be liable on conviction to a fine not exceeding $5,000,
+and also to a default penalty.
+Division 3 — Financial statements
+Financial year

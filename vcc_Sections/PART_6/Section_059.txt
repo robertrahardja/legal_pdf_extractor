@@ -1,0 +1,55 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 59: Sections 155 (except subsections (8) and (11)) and 155B of the
+============================================================
+
+Part: PART 6
+Type: simple
+Word Count: 297
+Has Penalties: Yes
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+Companies Act 1967 apply in relation to a VCC as they apply in
+relation to a company, subject to section 5 and the following
+modifications:
+(a) a reference in those sections of the Companies Act 1967 to
+a relevant requirement of that Act is to a provision of this
+Act (including a provision of the Companies Act 1967
+applied by this Act) that requires any return, account or
+other document to be filed with, delivered or sent, or notice
+of any matter to be given, to the Registrar;
+(b) in section 155 of the Companies Act 1967 —
+(i) a reference to an order under section 13 of that Act is
+to an order under section 12; and
+(ii) a reference to an order under section 399 of that Act
+is to an order under that section as applied by
+section 160;
+(c) the reference in section 155(5) of the Companies Act 1967
+to an offence under section 154(2)(a) of that Act is to an
+offence under section 58(2)(a);
+(d) the following provision applies in place of section 155(7)
+of the Companies Act 1967 (which provides that a
+certificate of the Registrar of Companies is prima facie
+evidence of certain matters relevant to section 155(3) and
+(4) of that Act):
+“A certificate of the Registrar stating that a person —
+(a) has been adjudged guilty of 3 or more
+offences; or
+(b) has had made against him or her 3 or more
+orders
+under
+section
+12,
+or
+under
+section 399 of the Companies Act 1967
+as applied by section 160,
+in relation to any relevant requirement of this Act, is
+prima facie evidence of the facts stated in the
+certificate.”.
+Disqualification for being director of not less than 3 VCCs that
+were struck off within 5‑year period

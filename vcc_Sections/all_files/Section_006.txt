@@ -1,0 +1,39 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 6: (1) Where a provision of the Companies Act 1967 is
+============================================================
+
+Part: PART 1
+Type: dash
+Word Count: 243
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+incorporated by reference in this Act and applies to or in relation
+to a VCC, a person of a VCC or a matter concerning a VCC, as that
+Companies Act 1967 provision applies to or in relation to a
+corporation, a person of a corporation or a matter concerning a
+corporation, then (despite a VCC being a corporation within the
+meaning of the Companies Act 1967) the Companies Act 1967
+provision is disapplied, but only to the extent of such application in
+this Act.
+(2) Where a provision of the Companies Act 1967 has a
+corresponding provision in this Act that applies to or in relation to
+a VCC, a person of a VCC or a matter concerning a VCC, as that
+Companies Act 1967 provision applies to or in relation to a
+corporation, a person of a corporation or a matter concerning a
+corporation, then (despite a VCC being a corporation within the
+meaning of the Companies Act 1967) the Companies Act 1967
+provision is disapplied, but only to the extent of such application in
+the corresponding provision.
+(3) Despite anything in the Companies Act 1967 —
+(a) Division 5 of Part 10 of that Act does not apply for the
+purpose of the winding up of a VCC or a sub‑fund of an
+umbrella VCC; and
+(b) Division 6 of Part 10 of that Act does not apply to any
+proceedings concerning a VCC or a sub‑fund of an
+umbrella VCC.

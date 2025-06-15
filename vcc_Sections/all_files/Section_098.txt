@@ -1,0 +1,57 @@
+VARIABLE CAPITAL COMPANIES ACT 2018
+============================================================
+
+SECTION 98: (1) A VCC’s financial year is determined as follows:
+============================================================
+
+Part: PART 8
+Type: dash
+Word Count: 332
+Has Penalties: No
+
+------------------------------------------------------------
+CONTENT:
+------------------------------------------------------------
+
+(a) the VCC’s first financial year starts on the VCC’s date of
+incorporation and (subject to subsection (3)) ends on the
+last day of the VCC’s first financial year as provided under
+section 16(2)(d);
+(b) each of the VCC’s subsequent financial years starts
+immediately after the end of the previous financial year
+and ends on the last day of a period of 12 months (or such
+other regular interval as the Registrar may allow).
+(2) AVCC’s first financial year must not be longer than 18 months
+unless the Registrar on the application of the VCC otherwise
+approves.
+(3) Despite subsection (1), but subject to subsections (4) and (5), a
+VCC may, by notice lodged with the Registrar in the prescribed form,
+specify a new date as the last day of the VCC’s financial year to apply
+to its previous or current financial year.
+(4) The Registrar’s approval must be obtained if the notice
+mentioned in subsection (3) —
+(a) results in a financial year being longer than 18 months; or
+(b) is lodged less than 5 years after the end of an earlier
+financial year, if the end of that earlier financial year was
+changed under this section.
+(5) The notice in subsection (3) cannot specify a new date as the last
+day of the VCC’s financial year —
+(a) after the expiry of the period under section 77 within which
+an annual general meeting of the VCC must be held after
+that financial year;
+(b) after the expiry of the period under section 97 within which
+an annual return of the VCC must be lodged with the
+Registrar after that financial year; or
+(c) after the expiry of the period under section 105 within
+which a copy of the financial statements, or consolidated
+financial
+statements
+and
+balance
+sheet,
+and
+other
+documents mentioned in section 105(1) and (2) are
+required to be sent to all persons entitled to receive
+notice of general meetings of the VCC.
+Accounting records and systems of control
